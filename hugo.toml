@@ -16,3 +16,36 @@ unsafe = true
 # I'm not sure why this "default" isn't enabled by default.
 # https://gohugo.io/render-hooks/links/#default
 enableDefault = true
+
+[Params]
+googleFontsLink = "https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+customCSS = ["css/dfp.css"]
+
+[Params.logo]
+image = "logo-no-text.jpg"
+subtitle = "Neighbors Helping Neighbors"
+
+[Params.style.vars]
+fontFamilyPrimary = "'Ubuntu', sans-serif"
+
+[menus]
+  [[menus.main]]
+    name = 'Need Help?'
+    pageRef = '/help/'
+    weight = 1
+  [[menus.main]]
+    name = 'Donate'
+    pageRef = '/donate/'
+    weight = 2
+  [[menus.main]]
+    name = 'Volunteer'
+    pageRef = '/volunteer/'
+    weight = 3
+  [[menus.main]]
+    name = 'About Us'
+    pageRef = '/about/'
+    weight = 4
+  [[menus.main]]
+    name = 'Contact Us'
+    pageRef = '/contact/'
+    weight = 5

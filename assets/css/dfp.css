@@ -1,0 +1,90 @@
+/* Make all of the text a little bigger than the theme's default. */
+body {
+	font-size: 1.0rem;
+	line-height: 1.2;
+}
+
+.logo--mixed .logo__img {
+	max-width: 96px;
+	max-height: 96px;
+}
+.logo__tagline {
+  padding-top: 0;
+}
+
+/* Start displaying content at the top of the page. */
+.container--outer {
+  margin: 0px auto;
+}
+
+.container {
+  max-width: 1400px;
+}
+
+/* This is the shopping-bag brown from our logo. */
+.menu__list, .menu__btn {
+  background: #623c15;
+}
+
+.logo {
+  padding: 0.5em;
+}
+
+.logo__title, .logo__tagline {
+  font-family: 'Times New Roman', serif;
+  font-size: 56px;
+  color: #623c15;
+	font-weight: 500;
+	text-transform: none;
+	margin-top: 0px;
+  border-top: none;
+}
+
+.logo__tagline {
+  font-size: 24px;
+	font-style: italic;
+}
+
+.logo--mixed .logo__item {
+  margin: 0 auto;
+}
+
+.footer {
+  background: #623c15;
+  border-top: 3px solid #e22d30;
+}
+
+.widget__title {
+  padding-bottom: 0;
+  border-bottom: 3px solid #623c15;
+}
+
+h4 {
+	margin-bottom: 0.5em;
+}
+
+.content a, .warning a, .authorbox__description a {
+  font-weight: 500;
+  color: #623c15;
+	text-decoration: underline;
+}
+
+@media screen and (max-width: 767px) {
+	.logo--mixed .logo__img {
+		max-width: 64px;
+		max-height: 64px;
+		float: left;
+	}
+	.logo__item, .logo__link {
+		display: block;
+	}
+	.logo {
+		text-align: center;
+	}
+	.logo__title, .logo__tagline {
+		font-size: 28px;
+	}
+	.logo__tagline {
+		font-size: 16px;
+	}
+}
