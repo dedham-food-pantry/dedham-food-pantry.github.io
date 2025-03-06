@@ -1,3 +1,4 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
 	url = git@github.com:dedham-food-pantry/Mainroad.git
+	branch = dfp
