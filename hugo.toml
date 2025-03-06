@@ -2,3 +2,8 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Dedham Food Pantry'
 theme = 'mainroad'
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
