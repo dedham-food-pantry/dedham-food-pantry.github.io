@@ -25,7 +25,7 @@ Our organization is non-denominational, non-political, run by volunteers, and fu
 * Email: [manager@dedhamfoodpantry.org][5]
 * The Pantry is located at [600 Washington Street][6] on the north end of the Dedham Plaza (the end with Planet Fitness in the front and Play it Again Sports in the back)
 
- [1]: /help/
+ [1]: /help/we-can-help/
  [2]: /donate/
  [3]: /volunteer/
  [4]: tel:+17812691541
