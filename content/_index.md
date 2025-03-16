@@ -27,7 +27,7 @@ Our organization is non-denominational, non-political, run by volunteers, and fu
 
  [1]: /help/we-can-help/
  [2]: /donate/
- [3]: /volunteer/
+ [3]: /volunteer/opportunities/
  [4]: tel:+17812691541
  [5]: mailto:manager@dedhamfoodpantry.org
  [6]: https://maps.app.goo.gl/TsfNto11XW5p3oYS6
