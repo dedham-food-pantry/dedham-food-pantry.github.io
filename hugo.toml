@@ -49,3 +49,6 @@ fontFamilyPrimary = "'Ubuntu', sans-serif"
     name = 'Contact Us'
     pageRef = '/contact/'
     weight = 5
+
+[Params.sidebar]
+  widgets = ["section-toc"]
