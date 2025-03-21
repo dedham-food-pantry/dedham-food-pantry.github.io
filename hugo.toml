@@ -7,3 +7,12 @@ theme = 'mainroad'
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
+
+[markup.goldmark.renderHooks]
+[markup.goldmark.renderHooks.link]
+# This tells Hugo to "capture" resources using ".Get".  If I don't use
+# this, then page resources don't get processed by the pipeline so
+# they don't get copied from the page bundle to the public directory.
+# I'm not sure why this "default" isn't enabled by default.
+# https://gohugo.io/render-hooks/links/#default
+enableDefault = true
