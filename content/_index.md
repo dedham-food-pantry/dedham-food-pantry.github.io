@@ -3,23 +3,23 @@ title: Home
 author: Admin
 type: page
 ---
-# Need Food? [Click&nbsp;here!][1]
+# [Need Food? Click&nbsp;here!][1]
 
-# Donate
+# [Donate][2]
 
 All donations to the Dedham Food Pantry have a significant impact. [Please donate!][2]
 
-# Volunteer
+# [Volunteer][3]
 
 [View our opportunities and register online.][3]
 
-# About Us
+# [About Us][7]
 
 Our mission is to **end hunger in Dedham**. We distribute more than 28,000 bags of food annually to more than 500 households in Dedham: families with children, people with disabilities, senior citizens, and any Dedham residents who need help due to loss of employment, reduction in benefits, or just living on a fixed income.
 
 Our organization is non-denominational, non-political, run by volunteers, and funded entirely by [contributions][2].
 
-# Contact Us
+# [Contact Us][8]
 
 * Call or text: [(781)269-1541][4]
 * Email: [manager@dedhamfoodpantry.org][5]
@@ -31,3 +31,5 @@ Our organization is non-denominational, non-political, run by volunteers, and fu
  [4]: tel:+17812691541
  [5]: mailto:manager@dedhamfoodpantry.org
  [6]: https://maps.app.goo.gl/TsfNto11XW5p3oYS6
+ [7]: /about/about/
+ [8]: /contact/
