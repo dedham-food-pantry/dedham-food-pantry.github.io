@@ -3,6 +3,8 @@ title: Home
 author: Admin
 type: page
 ---
+We provide food **at no cost** to qualifying Dedham residents.
+
 # [Need Food? Click&nbsp;here!][1]
 
 # [Donate][2]
@@ -11,6 +13,7 @@ All donations to the Dedham Food Pantry have a significant impact. [Please donat
 
 # [Volunteer][3]
 
+We are powered by our volunteers!
 [View our opportunities and register online.][3]
 
 # [About Us][7]
