@@ -24,7 +24,7 @@ Please note:
 * The Pantry does not consider the amount of your bank accounts or other assets. If you have significant assets but a limited income, please consider whether it is appropriate for you to use the Food Pantry.
 
  [1]: /contact/
- [2]: 2024-Client-Registration-Form-ENGLISH.pdf
- [3]: 2024-Client-Registration-Form-ESPANOL.pdf
- [4]: 2024-Client-Registration-Form-KREYOL-AYISYEN.pdf
+ [2]: Registration-Form-ENGLISH.pdf
+ [3]: Registration-Form-ESPAÑOL.pdf
+ [4]: Registration-Form-KREYÒL-AYISYEN.pdf
  [5]: /help/nearby-pantries/
