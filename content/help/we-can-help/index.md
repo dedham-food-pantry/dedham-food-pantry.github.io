@@ -14,6 +14,9 @@ To sign up, please [visit the Pantry][1] any weekday from 10am to noon and bring
 
 You can [download a registration form][2] or fill it out at the Pantry. The form is also available in [español][3] and [kreyòl ayisyen][4].
 
+Once the Dedham Food Pantry has processed your form and verified your residence in Dedham, you will be eligible to shop.
+Due to surging demand we require that you [make a reservation to shop](signup).
+
 Please note:
 
 * If you're not a Dedham resident then there are [several nearby pantries that can help you][5].
