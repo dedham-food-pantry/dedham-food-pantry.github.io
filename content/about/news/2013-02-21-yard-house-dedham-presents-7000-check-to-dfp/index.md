@@ -1,6 +1,5 @@
 ---
 title: Yard House Dedham Presents $7,000 Check to DFP
-author: Admin
 type: post
 date: 2013-02-21T19:07:06+00:00
 ---

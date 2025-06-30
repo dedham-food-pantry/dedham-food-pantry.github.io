@@ -1,6 +1,5 @@
 ---
 title: 2023 Ride For Food
-author: Admin
 type: page
 date: 2023-05-07T14:27:38+00:00
 ---

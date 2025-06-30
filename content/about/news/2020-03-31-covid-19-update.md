@@ -1,6 +1,5 @@
 ---
 title: COVID-19 Update
-author: Admin
 type: post
 date: 2020-03-31T20:29:43+00:00
 ---

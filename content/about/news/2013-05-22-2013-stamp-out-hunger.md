@@ -1,6 +1,5 @@
 ---
 title: '2013 Stamp Out Hunger- Thank You!'
-author: Admin
 type: post
 date: 2013-05-22T15:54:33+00:00
 ---

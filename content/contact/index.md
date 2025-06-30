@@ -1,6 +1,5 @@
 ---
 title: Contact Us
-author: Admin
 type: page
 weight: 5
 ---

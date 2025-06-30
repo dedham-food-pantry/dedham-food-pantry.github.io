@@ -1,6 +1,5 @@
 ---
 title: 'SAVE THE DATE: 5/11/13 is the National Stamp Out Hunger Drive'
-author: Admin
 type: post
 date: 2013-04-25T13:16:20+00:00
 ---

@@ -1,6 +1,5 @@
 ---
 title: W.W. Grainger, Inc. Donates $10,000 to the DFP
-author: Admin
 type: post
 date: 2013-07-23T19:05:59+00:00
 ---

@@ -1,6 +1,5 @@
 ---
 title: 'SAVE THE DATE: 2013 Volunteer Appreciation Night'
-author: Admin
 type: post
 date: 2013-09-11T20:47:47+00:00
 ---

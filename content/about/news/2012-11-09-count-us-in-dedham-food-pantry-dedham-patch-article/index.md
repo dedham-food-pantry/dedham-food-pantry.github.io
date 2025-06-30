@@ -1,6 +1,5 @@
 ---
 title: 'Count Us In: Dedham Food Pantry (Dedham Patch Article)'
-author: Admin
 type: post
 date: 2012-11-09T14:04:06+00:00
 ---

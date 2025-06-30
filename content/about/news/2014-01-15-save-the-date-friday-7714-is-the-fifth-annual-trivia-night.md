@@ -1,6 +1,5 @@
 ---
 title: Save the Date! Friday 2/7/14 is the Fifth Annual Trivia Night
-author: Admin
 type: post
 date: 2014-01-15T14:07:23+00:00
 ---

@@ -1,6 +1,5 @@
 ---
 title: 'Save the Date: Thanksgiving Day is the 3rd Annual Family Gratitude – 5K Turkey Trot'
-author: Admin
 type: post
 date: 2014-10-15T19:15:44+00:00
 ---

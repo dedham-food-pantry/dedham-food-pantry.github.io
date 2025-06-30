@@ -1,6 +1,5 @@
 ---
 title: We Can Help
-author: Admin
 type: page
 date: 2010-07-29T01:56:40+00:00
 weight: 1

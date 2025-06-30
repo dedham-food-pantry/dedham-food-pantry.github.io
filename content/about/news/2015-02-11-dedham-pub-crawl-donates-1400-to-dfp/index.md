@@ -1,6 +1,5 @@
 ---
 title: Dedham Pub Crawl Donates $1,400 to DFP
-author: Admin
 type: post
 date: 2015-02-11T14:57:07+00:00
 ---

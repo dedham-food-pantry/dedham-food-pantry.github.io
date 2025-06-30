@@ -1,6 +1,5 @@
 ---
 title: Local Financial Advisors Host “Think Green” Recycling Day
-author: Admin
 type: post
 date: 2014-04-30T13:51:34+00:00
 ---

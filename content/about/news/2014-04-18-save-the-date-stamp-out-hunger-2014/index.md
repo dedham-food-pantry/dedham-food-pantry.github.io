@@ -1,6 +1,5 @@
 ---
 title: 'Save the Date: Stamp Out Hunger 2014'
-author: Admin
 type: post
 date: 2014-04-18T14:39:38+00:00
 ---

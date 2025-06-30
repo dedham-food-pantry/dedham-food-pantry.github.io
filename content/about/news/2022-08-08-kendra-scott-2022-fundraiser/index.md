@@ -1,6 +1,5 @@
 ---
 title: Kendra Scott 2022 Fundraiser
-author: Admin
 type: post
 date: 2022-08-08T16:34:02+00:00
 ---

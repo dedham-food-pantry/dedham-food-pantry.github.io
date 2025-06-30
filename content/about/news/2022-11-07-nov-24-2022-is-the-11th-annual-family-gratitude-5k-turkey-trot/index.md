@@ -1,6 +1,5 @@
 ---
 title: Nov. 24, 2022 is the 11th Annual Family Gratitude 5K Turkey Trot!
-author: Admin
 type: post
 date: 2022-11-07T20:04:41+00:00
 ---

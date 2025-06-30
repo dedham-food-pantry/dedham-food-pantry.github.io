@@ -1,6 +1,5 @@
 ---
 title: April 23rd is The Ride for Food 5% Day
-author: Admin
 type: post
 date: 2015-04-06T18:42:37+00:00
 ---

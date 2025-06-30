@@ -1,6 +1,5 @@
 ---
 title: 'Dedham Stop & Shop Presents Check from “Friends For Food” Program'
-author: Admin
 type: post
 date: 2013-01-28T17:20:43+00:00
 ---

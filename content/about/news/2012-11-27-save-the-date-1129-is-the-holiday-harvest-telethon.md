@@ -1,6 +1,5 @@
 ---
 title: THURSDAY November 29 is the Holiday Harvest Telethon!
-author: Admin
 type: post
 date: 2012-11-27T08:43:24+00:00
 ---

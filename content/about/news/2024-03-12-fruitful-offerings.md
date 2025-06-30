@@ -1,6 +1,5 @@
 ---
 title: Fruitful Offerings Plant Distribution 2024
-author: Toby Cabot
 type: post
 date: 2024-03-12T17:40:32+00:00
 ---

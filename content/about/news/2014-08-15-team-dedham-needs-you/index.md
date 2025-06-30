@@ -1,6 +1,5 @@
 ---
 title: Team Dedham Needs You!
-author: Admin
 type: post
 date: 2014-08-15T17:23:08+00:00
 ---

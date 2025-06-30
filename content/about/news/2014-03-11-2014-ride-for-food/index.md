@@ -1,6 +1,5 @@
 ---
 title: 2014 Ride for Food
-author: Admin
 type: post
 date: 2014-03-11T16:01:12+00:00
 ---

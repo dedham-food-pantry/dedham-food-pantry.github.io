@@ -1,6 +1,5 @@
 ---
 title: 'Making a Difference- Bella’s Food Drive Boston'
-author: Admin
 type: post
 date: 2019-10-11T15:38:37+00:00
 ---

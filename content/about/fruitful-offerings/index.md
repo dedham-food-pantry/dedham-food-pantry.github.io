@@ -1,6 +1,5 @@
 ---
 title: Fruitful Offerings
-author: Admin
 type: page
 date: 2015-02-10T18:58:02+00:00
 ---

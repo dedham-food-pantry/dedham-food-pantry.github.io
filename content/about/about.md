@@ -1,6 +1,5 @@
 ---
 title: About Us
-author: Admin
 type: page
 date: 2010-03-04T19:58:44+00:00
 weight: 1

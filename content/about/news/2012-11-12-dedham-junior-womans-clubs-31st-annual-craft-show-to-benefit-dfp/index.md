@@ -1,6 +1,5 @@
 ---
 title: Dedham Junior Woman’s Club’s 31st Annual Craft Show to benefit DFP
-author: Admin
 type: post
 date: 2012-11-12T13:59:04+00:00
 ---

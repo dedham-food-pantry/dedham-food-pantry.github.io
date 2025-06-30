@@ -1,6 +1,5 @@
 ---
 title: Home
-author: Admin
 type: page
 ---
 We provide food **at no cost** to qualifying Dedham residents.

@@ -1,6 +1,5 @@
 ---
 title: Blue Hills Bank Donates $1,000 to the 3rd Annual Ride for Food
-author: Admin
 type: post
 date: 2014-08-28T19:35:49+00:00
 ---

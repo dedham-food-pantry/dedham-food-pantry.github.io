@@ -1,6 +1,5 @@
 ---
 title: 2014 Holiday Classics @ Showcase Dedham
-author: Admin
 type: post
 date: 2014-11-13T14:27:51+00:00
 ---

@@ -1,6 +1,5 @@
 ---
 title: Dedham Junior Women’s Club Tree Jubilee
-author: Admin
 type: post
 date: 2014-11-19T14:29:08+00:00
 ---

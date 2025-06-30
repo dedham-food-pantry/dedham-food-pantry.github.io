@@ -1,6 +1,5 @@
 ---
 title: '#GivingTuesday is here!'
-author: Admin
 type: post
 date: 2020-11-24T19:07:57+00:00
 ---

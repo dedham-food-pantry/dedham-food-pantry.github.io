@@ -1,6 +1,5 @@
 ---
 title: DFP Summer Snacks Drive
-author: Admin
 type: post
 date: 2022-07-12T14:30:28+00:00
 ---

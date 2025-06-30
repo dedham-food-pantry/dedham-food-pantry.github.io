@@ -1,6 +1,5 @@
 ---
 title: 'Maeve Quigley’s Food Drive & Fundraiser'
-author: Admin
 type: post
 date: 2020-11-25T16:32:48+00:00
 ---

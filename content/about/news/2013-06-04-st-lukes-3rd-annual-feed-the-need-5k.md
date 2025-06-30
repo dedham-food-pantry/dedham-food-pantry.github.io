@@ -1,6 +1,5 @@
 ---
 title: St. Luke’s 3rd Annual Feed the Need 5K
-author: Admin
 type: post
 date: 2013-06-04T00:51:13+00:00
 ---

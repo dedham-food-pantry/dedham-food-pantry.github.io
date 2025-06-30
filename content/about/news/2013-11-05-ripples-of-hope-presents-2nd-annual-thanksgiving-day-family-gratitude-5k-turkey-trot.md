@@ -1,6 +1,5 @@
 ---
 title: Ripples of Hope Presents 2nd Annual Thanksgiving Day Family Gratitude 5K Turkey Trot
-author: Admin
 type: post
 date: 2013-11-05T21:34:25+00:00
 ---

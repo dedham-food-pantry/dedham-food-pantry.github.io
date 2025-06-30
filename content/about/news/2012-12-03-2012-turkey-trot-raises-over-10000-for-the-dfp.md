@@ -1,6 +1,5 @@
 ---
 title: 2012 Turkey Trot Raises over $10,000 for the DFP
-author: Admin
 type: post
 date: 2012-12-03T18:34:15+00:00
 ---

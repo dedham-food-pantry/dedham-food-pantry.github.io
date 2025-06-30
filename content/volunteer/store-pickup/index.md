@@ -1,11 +1,7 @@
 ---
 title: Store Pickup Instructions
-author: Admin
 type: page
 date: 2022-03-15T14:02:40+00:00
-classic-editor-remember:
-  - block-editor
-
 ---
 The weekly store pick-ups play a vital role by providing our clients additional food including baked goods, vegetables, and other perishables. The stores below donate weekly which we distribute to our clients throughout the shopping day.
 

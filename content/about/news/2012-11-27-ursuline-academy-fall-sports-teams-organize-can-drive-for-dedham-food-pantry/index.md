@@ -1,6 +1,5 @@
 ---
 title: Ursuline Academy Fall Sports Teams Organize Can Drive for Dedham Food Pantry
-author: Admin
 type: post
 date: 2012-11-27T13:44:30+00:00
 ---

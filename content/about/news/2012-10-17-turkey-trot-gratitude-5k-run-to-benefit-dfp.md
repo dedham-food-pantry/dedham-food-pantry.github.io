@@ -1,6 +1,5 @@
 ---
 title: 'Turkey Trot & Gratitude 5K Run to Benefit the DFP'
-author: Admin
 type: post
 date: 2012-10-17T01:23:11+00:00
 ---

@@ -1,6 +1,5 @@
 ---
 title: 'Enjoy Holiday Classics on a Big Screen To Support  The Dedham Food Pantry at Showcase Cinema de Lux'
-author: Admin
 type: post
 date: 2012-12-05T08:04:03+00:00
 ---

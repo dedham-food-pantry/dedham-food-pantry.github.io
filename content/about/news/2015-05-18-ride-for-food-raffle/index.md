@@ -1,6 +1,5 @@
 ---
 title: Ride for Food Raffle
-author: Admin
 type: post
 date: 2015-05-18T13:02:44+00:00
 ---

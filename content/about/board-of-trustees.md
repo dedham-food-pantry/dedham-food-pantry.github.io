@@ -1,6 +1,5 @@
 ---
 title: Board of Trustees
-author: Admin
 type: page
 date: 2013-09-13T17:59:14+00:00
 ---

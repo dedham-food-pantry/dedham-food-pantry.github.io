@@ -1,6 +1,5 @@
 ---
 title: Fruitful Offerings Plant Distribution 2025
-author: Admin
 type: post
 date: 2025-03-03T15:54:34+00:00
 ---

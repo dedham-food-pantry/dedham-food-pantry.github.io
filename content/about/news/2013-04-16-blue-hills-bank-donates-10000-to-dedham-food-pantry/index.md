@@ -1,6 +1,5 @@
 ---
 title: Blue Hills Bank Donates $10,000 to Dedham Food Pantry
-author: Admin
 type: post
 date: 2013-04-16T12:50:29+00:00
 ---

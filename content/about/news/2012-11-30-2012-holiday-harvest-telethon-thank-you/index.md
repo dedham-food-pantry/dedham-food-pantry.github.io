@@ -1,6 +1,5 @@
 ---
 title: '2012 Holiday Harvest Telethon- THANK YOU!'
-author: Admin
 type: post
 date: 2012-11-30T15:20:43+00:00
 ---

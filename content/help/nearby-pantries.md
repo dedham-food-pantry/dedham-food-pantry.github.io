@@ -1,9 +1,7 @@
 ---
 title: Nearby Pantries
-author: Toby Cabot
 type: page
 date: 2023-06-02T14:22:29+00:00
-
 ---
 The Dedham Food Pantry is allowed to serve Dedham residents only, but the network of food pantries around Boston will get you the help that you need!
 

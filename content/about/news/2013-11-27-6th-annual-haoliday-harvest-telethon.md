@@ -1,6 +1,5 @@
 ---
 title: 12/5 is the 6th Annual Holiday Harvest Telethon
-author: Admin
 type: post
 date: 2013-11-27T19:26:46+00:00
 ---

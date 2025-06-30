@@ -1,6 +1,5 @@
 ---
 title: When and How to Shop
-author: Admin
 type: page
 date: 2020-11-25T14:40:28+00:00
 weight: 10

@@ -1,6 +1,5 @@
 ---
 title: Wish List
-author: Admin
 type: page
 date: 2010-03-05T01:32:00+00:00
 ---

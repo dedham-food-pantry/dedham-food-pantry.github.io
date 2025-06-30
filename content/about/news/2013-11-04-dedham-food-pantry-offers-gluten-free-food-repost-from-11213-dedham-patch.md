@@ -1,6 +1,5 @@
 ---
 title: Dedham Food Pantry Offers Gluten Free Food (Repost from 11/2/13 Dedham Patch)
-author: Admin
 type: post
 date: 2013-11-04T14:27:26+00:00
 ---

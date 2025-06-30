@@ -1,6 +1,5 @@
 ---
 title: Our History
-author: Admin
 type: page
 date: 2010-03-07T18:08:06+00:00
 ---

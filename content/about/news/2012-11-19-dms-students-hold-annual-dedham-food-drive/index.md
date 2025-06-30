@@ -1,6 +1,5 @@
 ---
 title: DMS Students Hold Annual Dedham Food Drive
-author: Admin
 type: post
 date: 2012-11-19T16:03:04+00:00
 ---

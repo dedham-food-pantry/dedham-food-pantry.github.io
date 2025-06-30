@@ -1,6 +1,5 @@
 ---
 title: Donate
-author: Admin
 date: 2010-03-05T20:01:22+00:00
 weight: 1
 ---

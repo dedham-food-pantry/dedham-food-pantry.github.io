@@ -1,6 +1,5 @@
 ---
 title: Whole Foods Feed 4 More Program
-author: Admin
 type: post
 date: 2014-11-04T16:21:07+00:00
 ---

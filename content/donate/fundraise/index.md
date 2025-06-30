@@ -1,11 +1,7 @@
 ---
 title: Fundraise
-author: Admin
 type: page
 date: 2020-11-17T20:52:48+00:00
-classic-editor-remember:
-  - classic-editor
-
 ---
 **Here’s how to get started:**
 

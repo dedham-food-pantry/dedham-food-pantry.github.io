@@ -1,6 +1,5 @@
 ---
 title: Fruitful Offerings Plant Distribution 2023
-author: Admin
 type: post
 date: 2023-04-24T14:41:31+00:00
 ---

@@ -1,6 +1,5 @@
 ---
 title: Volunteer Opportunities
-author: Admin
 type: page
 date: 2012-10-10T20:48:30+00:00
 weight: 1
