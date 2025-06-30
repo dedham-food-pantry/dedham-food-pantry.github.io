@@ -18,6 +18,7 @@ The Dedham Food Pantry is governed by a volunteer board of trustees.
 | Mike Downey         | Trustee, Treasurer               |
 | Nancy English       | Trustee                          |
 | Megan Hempstead     | Trustee, Corresponding Secretary |
+| Ryan O'Toole        | Trustee                          |
 | Brian Rogal         | Trustee, President Emeritus      |
 | Bob Samonte         | Trustee, Volunteer Organizer     |
 
