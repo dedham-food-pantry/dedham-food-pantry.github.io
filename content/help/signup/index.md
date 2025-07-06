@@ -17,7 +17,7 @@ The Dedham Food Pantry is open for shopping at these times:
 {{< figure
   src="reserve-shopping-2025.png"
   alt="Reserve Shopping QR Code"
-  link="https://www.signupgenius.com/go/4090F4CACA829A2F49-53310573-2025#/"
+  link="https://www.signupgenius.com/go/4090F4CACA829A2F49-54050896-2025#/"
   class="size-full alignright"
 >}}
 
@@ -35,4 +35,4 @@ The Dedham Food Pantry is open for shopping at these times:
 * ***Is there an app so I don’t have to scan the QR code?*** <br>Yes, you can download the SignupGenius app on the App Store for iPhone or Google Play store for Android.
 
  [1]: /about/calendar/
- [2]: https://www.signupgenius.com/go/4090F4CACA829A2F49-53310573-2025#/
+ [2]: https://www.signupgenius.com/go/4090F4CACA829A2F49-54050896-2025#/
