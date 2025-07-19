@@ -22,4 +22,4 @@ The Dedham Food Pantry is governed by a volunteer board of trustees.
 | Bob Samonte         | Trustee, Volunteer Organizer     |
 
 Trustees meet monthly and as needed.
-At least one trustee is on duty at all times when the pantry is open for shopping.
+At least one trustee is on duty when the pantry is open for shopping.

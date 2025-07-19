@@ -15,4 +15,4 @@ Pantry operations are supported entirely by generous and dedicated [volunteers][
 The Dedham Food Pantry is governed by a volunteer [Board of Trustees][2].
 
  [1]: /volunteer/
- [2]: /board-of-trustees/
+ [2]: /about/board-of-trustees/
