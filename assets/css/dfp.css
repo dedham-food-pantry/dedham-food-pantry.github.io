@@ -1,5 +1,6 @@
 /* Make all of the text a little bigger than the theme's default. */
 body {
+  font-family: Arial, sans-serif;
 	font-size: 1.0rem;
 	line-height: 1.2;
 }
@@ -64,7 +65,6 @@ h4 {
 }
 
 .content a, .warning a, .authorbox__description a {
-  font-weight: 500;
   color: #623c15;
 	text-decoration: underline;
 }
