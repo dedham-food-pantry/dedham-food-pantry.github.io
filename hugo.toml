@@ -18,6 +18,7 @@ unsafe = true
 enableDefault = true
 
 [Params]
+description = "The Dedham Food Pantry provides food at no cost to qualifying Dedham residents."
 customCSS = ["css/dfp.css"]
 googleFontsLink = false
 
