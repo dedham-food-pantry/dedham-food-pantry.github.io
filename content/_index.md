@@ -2,9 +2,9 @@
 title: Home
 type: page
 ---
-We provide food **at no cost** to qualifying Dedham residents.
-
 # [Need Food? Click&nbsp;here!][1]
+
+We provide food **at no cost** to qualifying Dedham residents.
 
 # [Donate][2]
 
@@ -17,7 +17,9 @@ We are powered by our volunteers!
 
 # [About Us][7]
 
-Our mission is to **end hunger in Dedham**. We distribute more than 28,000 bags of food annually to more than 500 households in Dedham: families with children, people with disabilities, senior citizens, and any Dedham residents who need help due to loss of employment, reduction in benefits, or just living on a fixed income.
+Our mission is to **end hunger in Dedham**. Everyone deserves consistent access to healthy food and the dignity of support without judgment.
+
+We distribute more than 28,000 bags of food annually to more than 500 households in Dedham: families with children, people with disabilities, and senior citizens. We're here for any Dedham resident who needs help due to loss of employment, reduction in benefits, or just living on a limited income.
 
 Our organization is non-denominational, non-political, run by volunteers, and funded entirely by [contributions][2].
 
