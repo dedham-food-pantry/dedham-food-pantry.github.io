@@ -3,6 +3,7 @@ title: Volunteer Opportunities
 type: page
 date: 2012-10-10T20:48:30+00:00
 weight: 1
+description: YOU can help end hunger in our community by volunteering for the Dedham Food Pantry! If you have two or more hours to spare, please consider joining our team.
 ---
 {{< figure
   src="IMAG0123_BURST002_COVER-1024x579.jpg"

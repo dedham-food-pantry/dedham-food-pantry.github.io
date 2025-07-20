@@ -2,6 +2,7 @@
 title: Donate
 date: 2010-03-05T20:01:22+00:00
 weight: 1
+description: We rely on cash donations to purchase the food that we provide to our clients. There is now a greater need than ever to help Dedham families, so we ask that you please give generously.
 ---
 We rely on cash donations to purchase the food that we provide to our clients. There is now a greater need than ever to help Dedham families, so we ask that you please give generously.
 
