@@ -53,6 +53,7 @@ body {
 .footer {
   background: #623c15;
   border-top: 3px solid #e22d30;
+  color: #fff;
 }
 
 .widget__title {
