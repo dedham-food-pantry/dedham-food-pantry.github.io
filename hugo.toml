@@ -24,6 +24,7 @@ googleFontsLink = false
 
 [Params.logo]
 image = "logo-no-text.jpg"
+altText = "The Dedham Food Pantry logo which is three full grocery bags on a red-and-white checked tablecloth."
 subtitle = "Neighbors Helping Neighbors"
 
 [menus]
