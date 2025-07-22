@@ -23,7 +23,7 @@ body {
 }
 
 /* This is the shopping-bag brown from our logo. */
-.menu__list, .menu__btn {
+nav.menu ul, nav.menu label {
   background: #623c15;
 }
 
@@ -74,10 +74,9 @@ h4 {
 	.logo--mixed .logo__img {
 		max-width: 64px;
 		max-height: 64px;
-		float: left;
 	}
 	.logo__item, .logo__link {
-		display: block;
+		display: inline-block;
 	}
 	.logo {
 		text-align: center;
