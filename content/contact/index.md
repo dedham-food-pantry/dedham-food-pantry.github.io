@@ -9,15 +9,7 @@ title="600 Washington St. Dedham, MA 02026"
 aria-label="600 Washington St. Dedham, MA 02026"
 ></iframe>
 
-We are located at [600 Washington Street][3] on the north end of the Dedham Plaza (the end with Planet Fitness in the front and Play it Again Sports in the back).
-
-**Email**: [manager@dedhamfoodpantry.org][2]
-
-**Phone/Text**: [(781)269-1541][1]
-
-**Mailing address** (to mail checks/correspondence):<br/>
-Dedham Food Pantry<br/>
-P.O. Box 46 Dedham, MA 02027
+{{< contact >}}
 
 ## Hours
 
@@ -27,7 +19,3 @@ We're a volunteer-driven organization so the pantry isn't staffed all the time, 
 * 1st & 3rd Wednesday 5:00pm - 7:00pm
 * 2nd & 4th Wednesday 12:30pm – 2:00pm
 * Saturday 8:00am – 11:00am
-
- [1]: tel:+17812691541
- [2]: mailto:manager@dedhamfoodpantry.org
- [3]: https://maps.app.goo.gl/TsfNto11XW5p3oYS6
