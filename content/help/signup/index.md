@@ -4,7 +4,7 @@ type: page
 date: 2020-11-25T14:40:28+00:00
 weight: 10
 ---
-We are open for shopping on Saturday morning, and the first and third Wednesday evening of each month. We are also open _for senior citizens_ on the second and fourth Wednesday afternoon of each month. [Our calendar][1] lists the upcoming dates and times.
+We are open for shopping every Saturday morning, and the first and third Wednesday evening of each month. We are also open _for senior citizens_ on the second and fourth Wednesday afternoon of each month. [Our calendar][1] lists the upcoming dates and times.
 
 [Reserve Shopping][2] lets you make an appointment to shop. Appointments are not mandatory, however, we have very high demand and walk-ins **will be given a shopping time after clients that have appointments**.
 
