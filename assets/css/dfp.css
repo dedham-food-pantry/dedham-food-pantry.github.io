@@ -14,10 +14,6 @@ body {
 }
 
 /* Start displaying content at the top of the page. */
-.container--outer {
-  margin: 0px auto;
-}
-
 .container {
   max-width: 1400px;
 }
@@ -50,7 +46,7 @@ nav.menu ul, nav.menu label {
   margin: 0 auto;
 }
 
-.footer {
+footer {
   background: #623c15;
   border-top: 3px solid #e22d30;
   color: #fff;
