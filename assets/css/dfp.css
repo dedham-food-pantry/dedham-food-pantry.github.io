@@ -48,7 +48,7 @@ nav.menu ul, nav.menu label {
 
 footer {
   background: #623c15;
-  border-top: 3px solid #e22d30;
+  border-top: none;
   color: #fff;
 }
 
