@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main class="main list dfp" role="main">
+	{{- with .Title }}
+	<header class="main__header">
+		<h1 class="main__title">{{ . }}</h1>
+	</header>
+	{{- end }}
+
+  {{- $kids := .Pages }}
+  {{- if gt (len $kids) 0 }}
+  <div class="widget-kids widget">
+  	<h4 class="widget__title">Contents</h4>
+  	<div class="widget__content">
+  		<ul class="widget__list">
+  		{{- range $name := $kids }}
+  			<li class="widget__item">
+  				<a class="widget__link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+  			</li>
+  		{{- end }}
+  		</ul>
+  	</div>
+  </div>
+  {{- end }}
+
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+	{{- range .Paginator.Pages }}
+		{{- .Render "summary" }}
+	{{- end }}
+</main>
+{{ partial "pagination.html" . }}
+{{ end }}

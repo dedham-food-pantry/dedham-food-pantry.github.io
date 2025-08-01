@@ -1,6 +1,5 @@
 ---
 title: Home
-type: page
 ---
 # [Need Food? Click&nbsp;here!][1]
 
@@ -28,7 +27,7 @@ Our organization is non-denominational, non-political, run by volunteers, and fu
 {{< contact >}}
 
  [1]: /help/we-can-help/
- [2]: /donate/
+ [2]: /donate/donate/
  [3]: /volunteer/opportunities/
  [7]: /about/about/
  [8]: /contact/
