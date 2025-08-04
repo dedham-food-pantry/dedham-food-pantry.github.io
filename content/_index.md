@@ -1,5 +1,5 @@
 ---
-title: Home
+layout: single
 ---
 # [Need Food? Click&nbsp;here!][1]
 
