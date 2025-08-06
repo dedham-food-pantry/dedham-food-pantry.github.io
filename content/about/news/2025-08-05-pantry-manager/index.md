@@ -25,14 +25,16 @@ As a Pantry Manager, you will:
 * Utilize data analytics and monitor food inventory levels to ensure that food inventory is available and future needs are met based on historical data and seasonal trends
 * Ensure compliance with food safety standards and regulations in food storage, safe handling, and the distribution of food
 
-Check out the [full job description here](Manager-Job-Description-July-2025.pdf).
-
 Qualifications:
 
 * Degree, coursework or credentials in nonprofit management, supply chain management, food systems, or a related field preferred. Equivalent experience may be considered.
 * A minimum of 2 years of experience in food procurement, supply chain management, or operations in a nonprofit or food-related setting.
 * Strong organizational and problem-solving skills.
 * Valid driver’s license and access to a car required for the occasional travel within the community to coordinate food pickups and distributions
+
+Check out the [full job description here](Manager-Job-Description-July-2025.pdf).
+
+Interested? [APPLY VIA INDEED](https://www.indeed.com/viewjob?jk=1e139700f1073deb).
 
 About us:
 
