@@ -13,7 +13,6 @@ The Dedham Food Pantry is governed by a volunteer board of trustees.
 | Carol Burak         | Trustee                          |
 | Toby Cabot          | Trustee                          |
 | Bernadette Chirokas | Trustee                          |
-| Carol Dixon         | Trustee                          |
 | Mike Downey         | Trustee, Treasurer               |
 | Nancy English       | Trustee                          |
 | Megan Hempstead     | Trustee, Corresponding Secretary |
