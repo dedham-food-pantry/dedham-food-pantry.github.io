@@ -33,12 +33,12 @@ subtitle = "Neighbors Helping Neighbors"
     pageRef = '/help/'
     weight = 1
   [[menus.main]]
-    name = 'Please Donate'
-    pageRef = '/donate/'
-    weight = 2
-  [[menus.main]]
     name = 'Please Volunteer'
     pageRef = '/volunteer/'
+    weight = 2
+  [[menus.main]]
+    name = 'Please Donate'
+    pageRef = '/donate/'
     weight = 3
   [[menus.main]]
     name = 'About Us'

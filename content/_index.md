@@ -5,14 +5,14 @@ layout: single
 
 We provide food **at no cost** to qualifying Dedham residents.
 
+# [Volunteer][3]
+
+Volunteering is the best way to help!
+[View our opportunities and register online.][3]
+
 # [Donate][2]
 
 All donations to the Dedham Food Pantry have a significant impact. [Please donate!][2]
-
-# [Volunteer][3]
-
-We are powered by our volunteers!
-[View our opportunities and register online.][3]
 
 # [About Us][7]
 
