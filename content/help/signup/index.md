@@ -9,9 +9,9 @@ We are open for shopping every Saturday morning, and the first and third Wednesd
 [Reserve Shopping][2] lets you make an appointment to shop. Appointments are not mandatory, however, we have very high demand and walk-ins **will be given a shopping time after clients that have appointments**.
 
 {{< figure
-  src="reserve-shopping-2025.png"
+  src="reserve-shopping-2026.png"
   alt="Reserve Shopping QR Code"
-  link="https://www.signupgenius.com/go/4090F4CACA829A2F49-54050896-2025#/"
+  link="https://www.signupgenius.com/go/4090F4CACA829A2F49-61412292-2026#/"
   class="alignright"
 >}}
 
@@ -28,4 +28,4 @@ We are open for shopping every Saturday morning, and the first and third Wednesd
 <br>Sign-ups for Wednesday open Monday at 5:00pm.
 
  [1]: /about/calendar/
- [2]: https://www.signupgenius.com/go/4090F4CACA829A2F49-54050896-2025#/
+ [2]: https://www.signupgenius.com/go/4090F4CACA829A2F49-61412292-2026#/
