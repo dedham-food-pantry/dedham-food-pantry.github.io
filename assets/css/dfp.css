@@ -17,6 +17,10 @@ body {
   max-width: 1400px;
 }
 
+main {
+	width: 100%;
+}
+
 /* This is the shopping-bag brown from our logo. */
 nav.menu ul, nav.menu label {
   background: #623c15;
