@@ -18,6 +18,7 @@ Due to surging demand we require that you [make a reservation to shop](signup).
 
 Please note:
 
+* With 2026, came updated work rules for SNAP recipients. DTA is experiencing high volume and may be hard to reach. Greater Boston Food Bank has offered to help SNAP recipients to determine their eligibility or exemption, please contact them using this form for further assistance: [https://www.gbfb.org/what-we-do/our-programs/snap/][6]
 * If you're not a Dedham resident then there are [several nearby pantries that can help you][5].
 * Residents of emergency shelters in Dedham are not eligible to shop at the Pantry, but we work with the shelters to provide supplemental food.
 * All persons who live in the same housing unit are considered one household even if they are not related.
@@ -30,3 +31,4 @@ Please note:
  [3]: Registration-Form-ESPAÑOL.pdf
  [4]: Registration-Form-KREYÒL-AYISYEN.pdf
  [5]: /help/nearby-pantries/
+ [6]: https://www.gbfb.org/what-we-do/our-programs/snap/
