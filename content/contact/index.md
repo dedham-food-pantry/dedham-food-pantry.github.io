@@ -13,9 +13,4 @@ aria-label="600 Washington St. Dedham, MA 02026"
 
 ## Hours
 
-We're a volunteer-driven organization so the pantry isn't staffed all the time, but there's usually someone at the pantry at these times:
-
-* Monday-Friday 10:00am – noon
-* 1st & 3rd Wednesday 5:00pm - 7:00pm
-* 2nd & 4th Wednesday 12:30pm – 2:00pm
-* Saturday 8:00am – 11:00am
+We're a volunteer-driven organization so the pantry isn't staffed all the time, but we're open for donations Tuesday-Friday 10am-12pm and Saturday 8am-11:30am:
