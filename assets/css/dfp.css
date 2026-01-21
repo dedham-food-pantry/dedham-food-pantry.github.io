@@ -50,6 +50,7 @@ nav.menu ul, nav.menu label {
 }
 
 footer {
+	margin-top: 1em;
   background: #623c15;
   border-top: none;
   color: #fff;
@@ -64,7 +65,7 @@ h4 {
 	margin-bottom: 0.5em;
 }
 
-.content a, .warning a, .authorbox__description a {
+.content a, .warning a, .authorbox__description a, .widget__item a {
   color: #623c15;
 	text-decoration: underline;
 }
