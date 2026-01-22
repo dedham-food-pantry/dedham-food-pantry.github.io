@@ -6,7 +6,7 @@ weight: 1
 ---
 The Dedham Food Pantry provides food to Dedham residents **at no cost**. To qualify you must **be a Dedham resident** and **meet our income guidelines** which can be found on our [registration form][2].
 
-To sign up, please [visit the Pantry][1] any weekday from 10am to noon and bring these documents with you:
+To register, please [visit the Pantry][1] any weekday from 10am to noon and bring these documents with you:
 
 * **Proof of identity** - A government-issued document with your name and photo: passport, state-issued ID card, driver's license, etc.
 * **Proof of residency** - A document with your name and permanent Dedham address: current rental lease agreement, recent rent receipt, recent utility bill (gas, cable, phone or electric), or recent bank statement.
