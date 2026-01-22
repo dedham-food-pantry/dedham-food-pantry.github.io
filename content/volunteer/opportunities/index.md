@@ -30,6 +30,8 @@ We have opportunities on Saturday morning (4 hours - 7:45-11:45am), the first an
 
 If this interests you, please [sign up][2].
 
+<a href="https://www.signupgenius.com/go/4090F4CACA829A2F49-60220546-2026" target="_blank"><img src="https://www.signupgenius.com/images/sign-up-now2.gif" width="undefined" height="undefined" border="0" alt="Sign Up!"></a>
+
 ## [Rescue Food][4]
 
 Much of our food is "rescued" by volunteers who pick it up at local stores and restaurants and bring it to us.
@@ -39,6 +41,7 @@ Much of our food is "rescued" by volunteers who pick it up at local stores and r
 
 We partner with [Food Rescue US][3], a non-profit that coordinates food rescues locally and nationwide. Please [sign up with them][4] and pick one of our rescues!
 
+<a href="https://www.signupgenius.com/go/4090F4CACA829A2F49-60220546-2026" target="_blank"><img src="https://www.signupgenius.com/images/sign-up-now2.gif" width="undefined" height="undefined" border="0" alt="Sign Up!"></a>
 
 ## [Prepare the Pantry for Shopping][2]
 
@@ -52,6 +55,8 @@ We're here every week from 10:00am-noon getting the Pantry ready for our clients
 
 If this interests you, please [sign up][2].
 
+<a href="https://www.signupgenius.com/go/4090F4CACA829A2F49-60220546-2026" target="_blank"><img src="https://www.signupgenius.com/images/sign-up-now2.gif" width="undefined" height="undefined" border="0" alt="Sign Up!"></a>
+
 ## [Unload Food Bank Provisions][2]
 
 We get three deliveries each month from the Greater Boston Food Bank. The food arrives in a truck and has to be moved into the Pantry.
@@ -60,6 +65,7 @@ We get three deliveries each month from the Greater Boston Food Bank. The food a
 
 If this interests you, please [sign up][2].
 
+<a href="https://www.signupgenius.com/go/4090F4CACA829A2F49-60220546-2026" target="_blank"><img src="https://www.signupgenius.com/images/sign-up-now2.gif" width="undefined" height="undefined" border="0" alt="Sign Up!"></a>
 
  [1]: /store-pickup/
  [2]: /involved/volunteer-online/
