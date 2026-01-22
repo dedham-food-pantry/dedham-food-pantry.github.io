@@ -15,7 +15,7 @@ We are open for shopping every Saturday morning, and the first and third Wednesd
   class="alignright"
 >}}
 
-* [Click here][2] or scan the QR Code to the right
+* <a href="https://www.signupgenius.com/go/4090F4CACA829A2F49-61412292-2026" target="_blank"><img src="https://www.signupgenius.com/images/sign-up-now2.gif" width="undefined" height="undefined" border="0" alt="Sign Up!"></a> or scan the QR Code to the right
 * A notification is generated then select: **Open “signupgenius.com”**
 * Find & select your preferred time to shop then [SUBMIT & SIGN UP]
 * Enter your *first & last name, email, and phone number* to complete your sign-up. You will receive an email confirmation
