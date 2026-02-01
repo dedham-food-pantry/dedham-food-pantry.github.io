@@ -10,18 +10,14 @@ In addition, donated foods provide our clients with different brands and flavors
 
 ## Shelf-stable Foods
 
+* Coffee (regular and decaf)
+* Canned WHITE tuna
 * Pasta (all kinds)
 * Canned chunky soups
-* Canned WHITE tuna
-* Canned chicken
 * Canned beef stew
 * Canned whole tomatoes
-* Canned stewed tomatoes
-* Canned pastas like Beefaroni and spaghetti and meatballs
-* Canned baked beans like Bush's and B&M
 * Rice mixes like Near East and Rice-a-roni
-* Muffin and brownie mixes
-* Cereal (hot or cold)
+* Cereal (hot and cold)
 
 ## Personal Care Items
 
