@@ -14,6 +14,6 @@ We believe that everyone deserves consistent access to healthy food and the dign
 The Pantry is non-denominational, non-political, and supported by generous [donors][1] and dedicated [volunteers][2], including a volunteer [Board of Trustees][3].
 
  [1]: /donate/donate/
- [2]: /volunteer/opportunities/
+ [2]: /volunteer/
  [3]: /about/board-of-trustees/
  [4]: /about/history/

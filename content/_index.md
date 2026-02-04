@@ -28,6 +28,6 @@ Our organization is non-denominational, non-political, run by volunteers, and fu
 
  [1]: /help/we-can-help/
  [2]: /donate/donate/
- [3]: /volunteer/opportunities/
+ [3]: /volunteer/
  [7]: /about/about/
  [8]: /contact/
