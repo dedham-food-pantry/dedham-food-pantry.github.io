@@ -9,7 +9,7 @@ We rely on cash donations to purchase food for our clients. There is a greater n
 The Dedham Food Pantry is a registered 501(c)(3) non-profit organization so your donation is fully tax deductible, and will have a significant impact!
 
   * [Donate online][3] with PayPal - _it's safe and secure_!
-  * Food Donations - [Click here][1] for a list of items needed
+  * Food Donations - [Click here][1] for a list of items needed. Food donations are accepted Tuesday-Friday from 10am to 12pm and Saturday from 8am to 11am.
   * [Donate in memory][4] of a loved one in lieu of flowers
   * Mail a check to:<br>Dedham Food Pantry<br>P.O. Box 46<br>Dedham, MA 02027
 
