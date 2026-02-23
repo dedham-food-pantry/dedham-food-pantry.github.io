@@ -1,4 +1,4 @@
 ---
 type: redirect
-target: /about/news/2025-03-21-trivia-night/
+target: /about/news/2026-03-27-trivia-night/
 ---
