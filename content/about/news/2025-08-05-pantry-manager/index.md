@@ -3,6 +3,8 @@ title: DFP is Hiring!
 type: post
 date: 2025-08-05
 ---
+## Update: This position has been filled.
+
 Join us and make a real difference — be part of a team passionate about strengthening our community!
 The Dedham Food Pantry is currently seeking a full-time, 40-hour Manager to join our mission-driven team.
 
@@ -33,8 +35,6 @@ Qualifications:
 * Valid driver’s license and access to a car required for the occasional travel within the community to coordinate food pickups and distributions
 
 Check out the [full job description here](Manager-Job-Description-July-2025.pdf).
-
-Interested? [APPLY VIA INDEED](https://www.indeed.com/viewjob?jk=1e139700f1073deb).
 
 About us:
 
