@@ -11,6 +11,8 @@ description: YOU can help end hunger in our community by volunteering for the De
   class="size-full alignright"
 >}}
 
+<code>Please note: All volunteer shifts will be hosted on [Galaxy Digital](https://dedhamfoodpantry.galaxydigital.com/) beginning May 1. All Sign Up Genius Shifts will be deleted by April 27th.</code>
+
 YOU can help end hunger in our community by volunteering for the Dedham Food Pantry! If you have two or more hours to spare, please join our team. _Volunteers under 16 years of age must be accompanied by an adult._
 
 Please check out the tasks below, find an opportunity that interests you, and [sign up][2].
