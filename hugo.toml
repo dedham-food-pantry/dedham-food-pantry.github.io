@@ -27,6 +27,10 @@ image = "logo-no-text.jpg"
 altText = "The Dedham Food Pantry logo which is three full grocery bags on a red-and-white checked tablecloth."
 subtitle = "Neighbors Helping Neighbors"
 
+[Params.banner]
+text = "New way to volunteer coming May 1!"
+link = "/volunteer"
+
 [menus]
   [[menus.main]]
     name = 'Need Help?'
