@@ -11,17 +11,17 @@ description: YOU can help end hunger in our community by volunteering for the De
   class="size-full alignright"
 >}}
 
-<code>Please note: All volunteer shifts will be hosted on [Galaxy Digital](https://dedhamfoodpantry.galaxydigital.com/) beginning May 1. All Sign Up Genius Shifts will be deleted by April 27th.</code>
+<code>Please note: Volunteer signups have moved from SignUpGenius to [Galaxy Digital](https://dedhamfoodpantry.galaxydigital.com/).</code>
 
-YOU can help end hunger in our community by volunteering for the Dedham Food Pantry! If you have two or more hours to spare, please join our team. _Volunteers under 16 years of age must be accompanied by an adult._
+YOU can help end hunger in Dedham by volunteering for the Dedham Food Pantry! If you have two or more hours to spare, please join our team. _Volunteers under 16 years of age must be accompanied by an adult._
 
-Please check out the tasks below, find an opportunity that interests you, and [sign up][2].
+Please see below to learn about our opportunities, find one that interests you, and [sign up][2].
 
-If you have any questions, feel free to <a href="/contact/">reach out to us</a>.
+If you have any questions, please <a href="/contact/">reach out to us</a>.
 
-## [Help Clients Shop][2]
+## [Shopper's Assistant][2]
 
-Our most urgent need is for volunteers to help our clients get the food that they need.
+Our most urgent need is for volunteers to help our clients shop for the food that they need.
 
 We have opportunities on Saturday morning (4 hours - 7:45-11:45am), the first and third Wednesday of every month (2 hours - 5:00-7:00pm), and the second and fourth Wednesday of every month (2 hours - 12:30-2:30pm).
 
@@ -30,8 +30,6 @@ We have opportunities on Saturday morning (4 hours - 7:45-11:45am), the first an
 * Break down boxes for recycling
 
 If this interests you, please [sign up][2].
-
-<a href="https://www.signupgenius.com/go/4090F4CACA829A2F49-60220546-2026" target="_blank"><img src="https://www.signupgenius.com/images/sign-up-now2.gif" width="undefined" height="undefined" border="0" alt="Sign Up!"></a>
 
 ## [Rescue Food][4]
 
@@ -42,11 +40,9 @@ Much of our food is "rescued" by volunteers who pick it up at local stores and r
 
 We partner with [Food Rescue US][3], a non-profit that coordinates food rescues locally and nationwide. Please [sign up with them][4] and pick one of our rescues!
 
-<a href="https://www.signupgenius.com/go/4090F4CACA829A2F49-60220546-2026" target="_blank"><img src="https://www.signupgenius.com/images/sign-up-now2.gif" width="undefined" height="undefined" border="0" alt="Sign Up!"></a>
+## [Restocking and Cleaning][2]
 
-## [Prepare the Pantry for Shopping][2]
-
-We're here every week from 10:00am-noon getting the Pantry ready for our clients:
+We're here every Tuesday through Friday from 10:00am-noon getting the Pantry ready for our clients:
 
 * Sort food donations and check expiration dates
 * restock shelves
@@ -56,17 +52,13 @@ We're here every week from 10:00am-noon getting the Pantry ready for our clients
 
 If this interests you, please [sign up][2].
 
-<a href="https://www.signupgenius.com/go/4090F4CACA829A2F49-60220546-2026" target="_blank"><img src="https://www.signupgenius.com/images/sign-up-now2.gif" width="undefined" height="undefined" border="0" alt="Sign Up!"></a>
+## [Greater Boston Food Bank Delivery Unloading][2]
 
-## [Unload Food Bank Provisions][2]
+We get three deliveries each month from the Greater Boston Food Bank. The food arrives in a truck and has to be carried into the Pantry.
 
-We get three deliveries each month from the Greater Boston Food Bank. The food arrives in a truck and has to be moved into the Pantry.
-
-* Must be able to lift up to 30 lbs repetitively, must be able to reach overhead, and also some bending and turning.
+* Must be able to lift 30 lbs repetitively, reach overhead, and also some bending and turning.
 
 If this interests you, please [sign up][2].
-
-<a href="https://www.signupgenius.com/go/4090F4CACA829A2F49-60220546-2026" target="_blank"><img src="https://www.signupgenius.com/images/sign-up-now2.gif" width="undefined" height="undefined" border="0" alt="Sign Up!"></a>
 
  [1]: /store-pickup/
  [2]: /involved/volunteer-online/
