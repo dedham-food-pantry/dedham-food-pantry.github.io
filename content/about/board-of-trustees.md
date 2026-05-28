@@ -9,7 +9,6 @@ The Dedham Food Pantry is governed by a volunteer board of trustees.
 | Name                | Position                         |
 |---------------------|----------------------------------|
 | Sarah MacDonald     | President                        |
-| Lynn Rogal          | Vice President                   |
 | Carol Burak         | Trustee                          |
 | Toby Cabot          | Trustee                          |
 | Bernadette Chirokas | Trustee                          |
