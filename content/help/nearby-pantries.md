@@ -16,23 +16,9 @@ You can also chat with a counselor online using the Live Chat feature on the bot
 
 Here are a few food pantries that serve areas around Dedham.
 
-## West Roxbury
-Rose’s Bounty<br>
-77 Stratford St. (Located in Stratford Street United Church)<br>
-West Roxbury, MA 02132<br>
-Phone: 857-203-0404
+## Boston
 
-## Hyde Park
-Hyde Park Food Pantry<br>
-Hyde Park Municipal Building<br>
-1179 River St<br>
-Hyde Park, MA 02136
-
-## Mattapan
-Greater Boston Nazarene Compassion Food Pantry<br>
-130 River St.<br>
-Boston, MA 02126<br>
-Phone: 617-296-7450
+The Neighborhood Food Action Collaborative maintains [a list of food pantries in Boston][3].
 
 ## Norwood
 Norwood Food Pantry<br>
@@ -100,3 +86,4 @@ A Place To Turn Food Pantry serves residents of Ashland, Dover, Framingham, Holl
 
 [1]: tel:+18006458333
 [2]: https://www.projectbread.org/get-help
+[3]: https://docs.google.com/document/d/1S5KYFIGQAm6Z71KYtgn2uTKanl-M-84EnQ3Yy5BzL1M/edit
