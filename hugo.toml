@@ -28,8 +28,8 @@ altText = "The Dedham Food Pantry logo which is three full grocery bags on a red
 subtitle = "Neighbors Helping Neighbors"
 
 [Params.banner]
-text = "We have a new way to volunteer!"
-link = "/volunteer"
+text = "Help us design our new logo!"
+link = "/logo-contest"
 
 [menus]
   [[menus.main]]

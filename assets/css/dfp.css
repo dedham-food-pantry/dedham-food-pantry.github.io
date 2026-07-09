@@ -88,3 +88,9 @@ h4 {
 		font-size: 16px;
 	}
 }
+
+/* This overrides the site-wide banner so I don't have to update mainroad */
+.banner {
+	background: #e7f2ea;
+	border: 2px solid #4a8c5c;
+}
