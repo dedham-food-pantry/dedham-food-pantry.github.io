@@ -56,8 +56,7 @@ Submissions are accepted in two ways:
 
 - **By email:** Send your design files to <manager@dedhamfoodpantry.org>
   with the subject line “Logo Submission — \[Your Name\]”
-- **By mail:** Print your design and mail it to PO Box 47, Dedham, MA
-  02027.
+- **By mail:** Print your design and mail it to PO Box 46, Dedham, MA 02027.
 
 All submissions must be received by 11:59 PM ET on Thursday, August 14,
 2026. Mailed entries must be postmarked by August 12 to allow for
