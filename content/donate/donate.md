@@ -8,12 +8,14 @@ We rely on cash donations to purchase food for our clients. There is a greater n
 
 The Dedham Food Pantry is a registered 501(c)(3) non-profit organization so your donation is fully tax deductible, and will have a significant impact!
 
+There are many ways to donate:
   * [Donate online][3] with PayPal - _it's safe and secure_!
-  * Food Donations - [Click here][1] for a list of items needed. Food donations are accepted Tuesday-Friday from 10am to 12pm and Saturday from 8am to 11am.
-  * [Donate in memory][4] of a loved one in lieu of flowers
+  * Purchase items from our [Amazon Donation List][5].
+  * Donate food - [Click here][1] for a list of items needed. Food donations are accepted Tuesday-Friday from 10am to 12pm and Saturday from 8am to 11am.
+  * [Donate in memory][4] of a loved one in lieu of flowers.
   * Mail a check to:<br>Dedham Food Pantry<br>P.O. Box 46<br>Dedham, MA 02027
 
-We are supported by donors who provide resources to make a difference in the community. Local businesses like Federal Realty Investments, Costco, BJs, Trader Joe's, Shaws, Stop & Shop, Whole Foods, and many more regularly donate in kind. The generosity of our contributors enables us to provide a wide range of food including fresh produce, milk, and eggs. We also provide meat, fish, chicken, vegetables, berries, canned meats, canned vegetables, and other staples a family might need including cleaning supplies and toilet paper.
+We are supported by donors who provide resources to make a difference in the community. Local businesses like Federal Realty Investments, Costco, BJs, Trader Joe's, Shaws, Stop & Shop, Whole Foods (and many more) regularly donate in kind. The generosity of our contributors enables us to provide a wide range of food including fresh produce, milk, and eggs. We also provide meat, fish, chicken, vegetables, berries, canned meats, canned vegetables, and other staples a family might need including cleaning supplies and toilet paper.
 
 ### Double Your Donation!
 
@@ -29,3 +31,4 @@ If you have questions about matching gifts please don't hesitate to [email or ca
  [2]: /contact/
  [3]: https://www.paypal.com/fundraiser/charity/106215
  [4]: https://www.paypal.com/donate?hosted_button_id=TL59NZ3JZY5X6
+ [5]: https://www.amazon.com/hz/wishlist/ls/19NCIBET78I4M

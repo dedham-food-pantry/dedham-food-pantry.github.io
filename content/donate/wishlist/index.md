@@ -8,6 +8,8 @@ We purchase most of our food from the Greater Boston Food Bank where $1 buys abo
 There are some items, however, that we are not able to purchase and which we depend on from your donations.
 In addition, donated foods provide our clients with different brands and flavors and they appreciate the variety!
 
+Many of these items can be purchased from our [Amazon Donation List][3].
+
 ## Shelf-stable Foods
 
 * Coffee (regular and decaf)
@@ -43,3 +45,4 @@ _Please do not donate expired items._
 
  [1]: /donate/
  [2]: /contact/
+ [3]: https://www.amazon.com/hz/wishlist/ls/19NCIBET78I4M
