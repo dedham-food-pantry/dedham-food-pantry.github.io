@@ -94,3 +94,53 @@ h4 {
 	background: #e7f2ea;
 	border: 2px solid #4a8c5c;
 }
+
+/* Prominent donation buttons for PayPal, Amazon, and Chewy links. */
+.donate-btn {
+	display: inline-block;
+	margin: 0.5em 0.5em 0.5em 0;
+	padding: 0.75em 1.5em;
+	font-size: 1.1rem;
+	font-weight: 700;
+	color: #fff !important;
+	text-decoration: none !important;
+	border-radius: 6px;
+	transition: background-color .25s ease-out;
+}
+
+.donate-btn--paypal {
+	background: #0070ba;
+}
+.donate-btn--paypal:hover {
+	background: #005ea6;
+}
+
+.donate-btn--amazon {
+	background: #ff9900;
+	color: #111 !important;
+}
+.donate-btn--amazon:hover {
+	background: #e88a00;
+}
+
+.donate-btn--chewy {
+	background: #0f3c5f;
+}
+.donate-btn--chewy:hover {
+	background: #0a2c46;
+}
+
+/* Clickable thumbnail preview of the donation flyer. */
+.flyer-preview {
+	display: block;
+	max-width: 220px;
+	height: auto;
+	margin: 0.5em 0;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+	transition: box-shadow .25s ease-out;
+}
+.flyer-preview:hover {
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
