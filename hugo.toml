@@ -24,7 +24,7 @@ googleFontsLink = false
 
 [Params.logo]
 image = "DFP_Main_Color_SmallVersion.png"
-altText = "The Dedham Food Pantry logo which is a shopping basket full of lealthy food."
+altText = "The Dedham Food Pantry logo which is a shopping basket full of healthy food."
 subtitle = "Neighbors Helping Neighbors"
 
 [Params.style.vars]
