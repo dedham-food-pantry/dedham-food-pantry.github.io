@@ -23,9 +23,12 @@ customCSS = ["css/dfp.css"]
 googleFontsLink = false
 
 [Params.logo]
-image = "logo-no-text.jpg"
-altText = "The Dedham Food Pantry logo which is three full grocery bags on a red-and-white checked tablecloth."
+image = "DFP_Main_Color_SmallVersion.png"
+altText = "The Dedham Food Pantry logo which is a shopping basket full of lealthy food."
 subtitle = "Neighbors Helping Neighbors"
+
+[Params.style.vars]
+  highlightColor = "#477000"
 
 [menus]
   [[menus.main]]

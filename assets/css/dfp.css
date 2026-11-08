@@ -5,7 +5,7 @@ body {
 	line-height: 1.2;
 }
 
-.logo--mixed .logo__img {
+.logo__link img {
 	max-width: 96px;
 	max-height: 96px;
 }
@@ -21,9 +21,13 @@ main {
 	width: 100%;
 }
 
-/* This is the shopping-bag brown from our logo. */
+nav {
+	border-bottom: 0px;
+}
+
+/* This is the brown from our logo's shopping-basket handle. */
 nav.menu ul, nav.menu label {
-  background: #623c15;
+  background: #8a4300;
 }
 
 .logo {
@@ -32,12 +36,16 @@ nav.menu ul, nav.menu label {
 
 .logo__title, .logo__tagline {
   font-family: 'Times New Roman', serif;
-  font-size: 56px;
-  color: #623c15;
+  font-size: 42px;
+  color: #8a4300;
 	font-weight: 500;
 	text-transform: none;
 	margin-top: 0px;
   border-top: none;
+}
+
+.logo__link {
+	padding: 5px;
 }
 
 .logo__tagline {
@@ -51,14 +59,14 @@ nav.menu ul, nav.menu label {
 
 footer {
 	margin-top: 1em;
-  background: #623c15;
+  background: #8a4300;
   border-top: none;
   color: #fff;
 }
 
 .widget__title {
   padding-bottom: 0;
-  border-bottom: 3px solid #623c15;
+  border-bottom: 3px solid #8a4300;
 }
 
 h4 {
@@ -66,14 +74,14 @@ h4 {
 }
 
 .content a, .warning a, .authorbox__description a, .widget__item a {
-  color: #623c15;
+  color: #8a4300;
 	text-decoration: underline;
 }
 
 @media screen and (max-width: 767px) {
-	.logo--mixed .logo__img {
-		max-width: 64px;
-		max-height: 64px;
+	.logo__link img {
+		max-width: 48px;
+		max-height: 48px;
 	}
 	.logo__item, .logo__link {
 		display: inline-block;
@@ -82,10 +90,10 @@ h4 {
 		text-align: center;
 	}
 	.logo__title, .logo__tagline {
-		font-size: 28px;
+		font-size: 24px;
 	}
 	.logo__tagline {
-		font-size: 16px;
+		font-size: 14px;
 	}
 }
 
