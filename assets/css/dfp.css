@@ -20,11 +20,17 @@ main {
 
 nav {
 	border-bottom: 0px;
+	margin-bottom: 0.25em;
 }
 
 /* This is the brown from our logo's shopping-basket handle. */
 nav.menu ul, nav.menu label {
   background: #477000;
+}
+
+/* Shrink the nav bar's vertical padding. */
+nav.menu a, nav.menu label {
+	padding: 0.35rem 0.9375rem;
 }
 
 .logo {
@@ -56,7 +62,8 @@ nav.menu ul, nav.menu label {
 }
 
 footer {
-	margin-top: 1em;
+	margin-top: 0.5em;
+	padding: 6px 25px;
   background: #477000;
   border-top: none;
   color: #fff;
