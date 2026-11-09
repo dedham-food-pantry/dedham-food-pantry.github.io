@@ -44,5 +44,5 @@ _Please do not donate expired items._
 **Donation drop off times:** see our [contact page][2].
 
  [1]: /donate/
- [2]: /contact/
+ [2]: /#contact
  [3]: https://www.amazon.com/hz/wishlist/ls/19NCIBET78I4M

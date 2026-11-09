@@ -11,13 +11,11 @@ description: YOU can help end hunger in our community by volunteering for the De
   class="size-full alignright"
 >}}
 
-<code>Please note: Volunteer signups have moved from SignUpGenius to [Galaxy Digital](https://dedhamfoodpantry.galaxydigital.com/).</code>
-
 YOU can help end hunger in Dedham by volunteering for the Dedham Food Pantry! If you have two or more hours to spare, please join our team. _Volunteers under 16 years of age must be accompanied by an adult._
 
 Please see below to learn about our opportunities, find one that interests you, and [sign up][2].
 
-If you have any questions, please <a href="/contact/">reach out to us</a>.
+If you have any questions, please <a href="/#contact">reach out to us</a>.
 
 ## [Shopper's Assistant][2]
 

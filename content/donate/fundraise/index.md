@@ -7,7 +7,7 @@ date: 2020-11-17T20:52:48+00:00
 
   * Gather your friends, family, and colleagues who are interested in helping the Dedham Food Pantry
   * Create a fundraiser to help raise funds and awareness.
-  * Reach out to your networks to secure support for your fundraising campaign. **Please <a href="/contact/" rel="noopener noreferrer">contact us</a> if you have any questions.**
+  * Reach out to your networks to secure support for your fundraising campaign. **Please <a href="/#contact" rel="noopener noreferrer">contact us</a> if you have any questions.**
 
 *As people responsible for fundraising for non-profit organizations, we often get “analysis paralysis,” the inability to decide on a course of action.  We spend so much time reviewing great new fundraising strategies, attending conferences, reading development books, and seeking advice from colleagues that we have trouble launching a new fundraising initiative.
 

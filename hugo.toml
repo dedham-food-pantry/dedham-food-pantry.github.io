@@ -47,7 +47,3 @@ subtitle = "Neighbors Helping Neighbors"
     name = 'About Us'
     pageRef = '/about/'
     weight = 4
-  [[menus.main]]
-    name = 'Contact Us'
-    pageRef = '/contact/'
-    weight = 5

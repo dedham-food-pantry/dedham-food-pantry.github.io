@@ -82,7 +82,7 @@ Most companies will need our Federal Taxpayer ID which is <span style="color: #2
 If you have questions about matching gifts please don't hesitate to [email or call][2].
 
  [1]: /donate/wishlist/
- [2]: /contact/
+ [2]: /#contact
  [3]: https://www.paypal.com/fundraiser/charity/106215
  [4]: https://www.paypal.com/donate?hosted_button_id=TL59NZ3JZY5X6
  [5]: https://www.amazon.com/hz/wishlist/ls/19NCIBET78I4M

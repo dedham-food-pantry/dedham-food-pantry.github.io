@@ -26,7 +26,7 @@ Please note:
 * Count only the current income of household members, not what they may have made in the past or what they expect to make in the future. However, if your income increases to the point where you are no longer eligible for assistance please let us know.
 * The Pantry does not consider the amount of your bank accounts or other assets. If you have significant assets but a limited income, please consider whether it is appropriate for you to use the Food Pantry.
 
- [1]: /contact/
+ [1]: /#contact
  [2]: Registration-Form-ENGLISH.pdf
  [3]: Registration-Form-ESPAÑOL.pdf
  [4]: Registration-Form-KREYÒL-AYISYEN.pdf
