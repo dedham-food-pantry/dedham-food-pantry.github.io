@@ -40,7 +40,7 @@ nav.menu a, nav.menu label {
 .logo__title, .logo__tagline {
   font-family: 'Times New Roman', serif;
   font-size: 42px;
-  color: black;
+  color: #121212;
 	text-transform: none;
 	margin-top: 0px;
   padding-top: 0;
@@ -66,7 +66,7 @@ footer {
 	padding: 6px 25px;
   background: #477000;
   border-top: none;
-  color: #fff;
+  color: #f7f7f7;
 }
 
 .widget__title {
