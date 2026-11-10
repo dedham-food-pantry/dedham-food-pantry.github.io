@@ -1,0 +1,14 @@
+<nav class="menu">
+	<input type="checkbox" id="nav-trigger" />
+	<label for="nav-trigger">Menu</label>
+	<ul>
+		{{- $currentNode := . }}
+		{{- range .Site.Menus.main }}
+		{{- if .Name }}
+		<li {{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}class="active"{{ end }}>
+			<a href="{{ .URL }}">{{ .Pre }}{{ .Name }}{{ .Post }}</a>
+		</li>
+		{{- end }}
+		{{- end }}
+	</ul>
+</nav>

@@ -1,0 +1,553 @@
+{{- $highlightColor := .Site.Params.style.vars.highlightColor | default (.Site.Params.highlightColor | default "#e22d30") -}}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+article,
+figure,
+footer,
+header,
+main,
+nav {
+	display: block;
+}
+
+/* Structure */
+html {
+	font-size: 100%;
+}
+
+.flex {
+	display: flex;
+}
+
+/* Button */
+.btn {
+	padding: 5px 10px;
+	font-weight: 700;
+	color: #e7e7e7;
+	white-space: pre-line;
+	background: #2a2a2a;
+}
+
+.btn:hover {
+	color: #e7e7e7;
+	background: {{ $highlightColor }};
+}
+
+/* Animation */
+nav.menu li,
+.btn {
+	transition: background-color .25s ease-out;
+}
+
+/* Typography */
+h1,
+h2,
+h3 {
+	margin: 0 0 20px;
+	margin: 0 0 1.25rem;
+	font-weight: 700;
+	line-height: 1.3;
+	color: #1a1a1a;
+}
+
+h1 {
+	font-size: 2rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+}
+
+a {
+	color: #1a1a1a;
+	text-decoration: none;
+}
+
+a:hover {
+	color: {{ $highlightColor }};
+}
+
+p {
+	margin: 0 0 20px;
+	margin: 0 0 1.25rem;
+}
+
+b,
+strong {
+	font: inherit;
+	font-weight: 700;
+}
+
+i,
+em {
+	font: inherit;
+	font-style: italic;
+}
+
+ol,
+ul {
+	padding: 0;
+	margin: 0;
+}
+
+sup {
+	font-size: 10px;
+	font-size: .625rem;
+	font-style: normal;
+	vertical-align: super;
+}
+
+.warning {
+	padding: 20px 10px;
+	text-align: center;
+	border: 1px solid #ddd;
+}
+
+/* Header */
+.logo__item {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.logo__text {
+	text-transform: uppercase;
+}
+
+.logo__title {
+	font-size: 32px;
+	font-size: 2rem;
+	font-weight: 700;
+	line-height: 1;
+	color: #1a1a1a;
+}
+
+/* Main menu */
+/* https://www.sitepoint.com/pure-css-off-screen-navigation-menu/ */
+nav.menu input {
+  /* critical styles - hide the checkbox input */
+  position: absolute;
+  clip: rect(0, 0, 0, 0);
+}
+
+nav.menu label {
+	display: block;
+	width: 100%;
+	color: #e7e7e7;
+	background: #2a2a2a;
+	border: 0;
+	outline: 0;
+	position: relative;
+	padding: .625rem .9375rem;
+	font-weight: 700;
+	text-align: right;
+	text-transform: uppercase;
+	cursor: pointer;
+	user-select: none;
+}
+
+nav.menu ul {
+	list-style: none;
+	background: #2a2a2a;
+	display: none;
+}
+
+nav.menu ul li:hover {
+	background: {{ $highlightColor }};
+}
+
+nav.menu input:checked + label {
+	color: {{ $highlightColor }};
+}
+
+nav.menu li.active {
+	background: {{ $highlightColor }};
+}
+
+nav.menu input:checked ~ ul {
+	display: block;
+	color: {{ $highlightColor }};
+}
+
+nav.menu a {
+	display: block;
+	padding: .625rem .9375rem;
+	font-weight: 700;
+	color: #e7e7e7;
+	text-transform: uppercase;
+}
+
+@media screen and (min-width: 767px) {
+	nav.menu input, nav.menu label {
+		display: none;
+	}
+
+	nav.menu ul {
+		position: relative;
+		display: flex;
+		flex-wrap: wrap;
+		visibility: visible;
+		border: 0;
+		transform: none;
+	}
+
+	nav.menu li {
+		border-left: 1px solid rgba(255, 255, 255, .1);
+	}
+}
+
+/* Posts/Pages */
+.post__header,
+.main__header {
+	margin-bottom: 20px;
+	margin-bottom: 1.25rem;
+}
+
+.main__title {
+	font-size: 28px;
+	font-size: 1.75rem;
+}
+
+.post__title {
+	margin: 0;
+}
+
+.content a,
+.warning a {
+	font-weight: 700;
+	color: {{ $highlightColor }};
+}
+
+.content a:hover,
+.warning a:hover {
+	color: {{ $highlightColor }};
+	text-decoration: underline;
+}
+
+.content .aligncenter {
+	display: block;
+	margin: 20px auto;
+	margin: 1.25rem auto;
+}
+
+.content .alignleft {
+	display: inline;
+	float: left;
+	margin: 5px 20px 20px 0;
+	margin: .3125rem 1.25rem 1.25rem 0;
+}
+
+.content .alignright {
+	display: inline;
+	float: right;
+	margin: 5px 0 20px 20px;
+	margin: .3125rem 0 1.25rem 1.25rem;
+}
+
+.content ul {
+	list-style: square;
+}
+
+.content ol {
+	list-style: decimal;
+}
+
+.content ul,
+.content ol {
+	margin: 0 0 20px 40px;
+}
+
+.content ul ul,
+.content ol ol,
+.content ol ul,
+.content ul ol {
+	margin: 0 0 0 40px;
+}
+
+.content li {
+	margin-bottom: 5px;
+}
+
+/* Pagination */
+.pagination {
+	margin-top: 20px;
+}
+
+.pagination__item {
+	display: inline-block;
+	padding: 10px 15px;
+	font-weight: 700;
+	color: #1a1a1a;
+	background: #f5f5f5;
+}
+
+.pagination__item:hover,
+.pagination__item--current {
+	color: #e7e7e7;
+	background: {{ $highlightColor }};
+}
+
+/* Images / Video */
+img {
+	max-width: 100%;
+	height: auto;
+	vertical-align: bottom;
+}
+
+iframe {
+	max-width: 100%;
+}
+
+/* Table */
+table {
+	width: 100%;
+	margin-bottom: 20px;
+	margin-bottom: 1.25rem;
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-top: 1px solid #ebebeb;
+	border-left: 1px solid #ebebeb;
+}
+
+td,
+th {
+	padding: 5px 10px;
+	border-right: 1px solid #ebebeb;
+	border-bottom: 1px solid #ebebeb;
+}
+
+th {
+	font-weight: 700;
+}
+
+/* Forms */
+input {
+	margin: 0;
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	padding: 5px;
+	font-size: 12px;
+	vertical-align: middle;
+	background: #f5f5f5;
+	border: 1px solid #ebebeb;
+	transition: all .25s ease-in-out;
+}
+
+/* Widgets */
+.widget__item {
+	display: block;
+	padding: 5px 0;
+	border-bottom: 1px dotted #ebebeb;
+}
+
+.widget__item:first-child {
+	padding-top: 0;
+}
+
+/* Media Queries */
+@media screen and (max-width: 900px) {
+	.footer__copyright {
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.logo__link {
+		margin: 0 auto;
+	}
+
+	.logo__title {
+		font-size: 24px;
+	}
+
+	.logo__link img {
+		max-width: 48px;
+		max-height: 48px;
+	}
+
+	.logo__item, .logo__link {
+		display: inline-block;
+	}
+
+	.logo__tagline {
+		font-size: 14px;
+	}
+}
+
+@media screen and (max-width: 620px) {
+	.logo__link img {
+		max-width: 64px;
+		max-height: 64px;
+	}
+
+	.content ul,
+	.content ol {
+		margin: 0 0 20px 20px;
+	}
+
+	.content ul ul,
+	.content ol ol,
+	.content ol ul,
+	.content ul ol {
+		margin: 0 0 0 20px;
+	}
+}
+
+@media print {
+	.logo__link img {
+		max-width: 64px;
+		max-height: 64px;
+	}
+
+  nav.menu, div.logo__tagline, footer {
+    display: none !important;
+  }
+}
+
+/* Dedham Food Pantry site customizations */
+
+/* Make all of the text a little bigger than the theme's default. */
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+	font-size: 1.0rem;
+	line-height: 1.2;
+	word-wrap: break-word;
+	background: #e7e7e7;
+}
+
+.logo__link img {
+	max-width: 96px;
+	max-height: 96px;
+}
+
+.container {
+	margin-left: 1em;
+	max-width: 1400px;
+}
+
+main {
+	width: 100%;
+}
+
+nav {
+	border-bottom: 0px;
+	margin-bottom: 0.25em;
+}
+
+/* This is the green from our logo. */
+nav.menu ul, nav.menu label {
+  background: #477000;
+}
+
+/* Shrink the nav bar's vertical padding. */
+nav.menu a, nav.menu label {
+	padding: 0.35rem 0.9375rem;
+}
+
+.logo__title, .logo__tagline {
+  font-family: 'Times New Roman', serif;
+  font-size: 42px;
+  color: #121212;
+	text-transform: none;
+	margin-top: 0px;
+  padding-top: 0;
+  border-top: none;
+}
+
+.logo__link {
+	display: inline-block;
+	padding: 5px;
+}
+
+.logo__tagline {
+	display: inline-block;
+	font-weight: 700;
+	line-height: 1;
+	color: #bf2238;
+	font-size: 24px;
+	font-style: italic;
+}
+
+footer {
+	font-size: 12px;
+	font-size: .75rem;
+	margin-top: 0.5em;
+	padding: 6px 25px;
+  background: #477000;
+  border-top: none;
+  color: #f7f7f7;
+}
+
+.widget__title {
+	position: relative;
+	font-size: 16px;
+	font-size: 1rem;
+	text-transform: uppercase;
+  padding-bottom: 0;
+  border-bottom: 3px solid #477000;
+}
+
+.content a, .warning a, .widget__item a {
+  color: #477000;
+	text-decoration: underline;
+}
+
+/* Prominent donation buttons for PayPal, Amazon, and Chewy links. */
+.donate-btn {
+	display: inline-block;
+	margin: 0.5em 0.5em 0.5em 0;
+	padding: 0.75em 1.5em;
+	font-size: 1.1rem;
+	font-weight: 700;
+	color: #fff !important;
+	text-decoration: none !important;
+	border-radius: 6px;
+	transition: background-color .25s ease-out;
+}
+
+.donate-btn--paypal {
+	background: #0070ba;
+}
+.donate-btn--paypal:hover {
+	background: #005ea6;
+}
+
+.donate-btn--amazon {
+	background: #ff9900;
+	color: #111 !important;
+}
+.donate-btn--amazon:hover {
+	background: #e88a00;
+}
+
+.donate-btn--chewy {
+	background: #0f3c5f;
+}
+.donate-btn--chewy:hover {
+	background: #0a2c46;
+}
+
+/* Clickable thumbnail preview of the donation flyer. */
+.flyer-preview {
+	display: block;
+	max-width: 220px;
+	height: auto;
+	margin: 0.5em 0;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+	transition: box-shadow .25s ease-out;
+}
+.flyer-preview:hover {
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}

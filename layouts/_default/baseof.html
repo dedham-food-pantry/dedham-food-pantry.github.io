@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}{{ end }}</title>
+	{{ if and .IsHome .Site.Params.description }}
+	<meta name="description" content="{{ .Site.Params.description }}">
+	{{ else if .Params.Description }}
+	<meta name="description" content="{{ .Params.description }}">
+	{{ end }}
+	{{- if .Site.Params.opengraph }}
+		{{ template "_internal/opengraph.html" . }}
+	{{- end }}
+	{{- if .Site.Params.schema }}
+		{{ template "_internal/schema.html" . }}
+	{{- end }}
+
+	{{- $googleFontsLink := .Site.Params.googleFontsLink | default "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" }}
+	{{- if hasPrefix $googleFontsLink "https://fonts.googleapis.com/" }}
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" {{ printf `href="%s"` $googleFontsLink | safeHTMLAttr }}>
+	{{- end }}
+
+	{{- $CSS := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . | fingerprint -}}
+	<link rel="stylesheet" href="{{ $CSS.RelPermalink }}" media="all">
+
+	{{- with .OutputFormats.Get "rss" }}
+	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
+	{{- end }}
+
+	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
+	{{- $server := "" }}
+	{{- if gt (int (index (split hugo.Version ".") 1)) "120" }}
+		{{ $server = hugo.IsServer }}
+	{{- else }}
+		{{ $server = .Site.IsServer }}
+	{{- end -}}
+	{{- if not $server }}
+		{{ template "_internal/google_analytics.html" . }}
+	{{- end }}
+</head>
+<body>
+	{{ block "header" . }}{{ partial "header.html" . }}{{ end }}
+	<div class="container flex">
+		{{ block "main" . }}
+		{{ with .Content }}
+		<div class="content">
+			{{ . }}
+		</div>
+		{{ end }}
+		{{ end }}
+	</div>
+	{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
+{{ range .Site.Params.customJS -}}
+<script src="{{ . | relURL }}"></script>
+{{- end }}
+</body>
+</html>
