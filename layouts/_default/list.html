@@ -1,5 +1,5 @@
 {{ define "main" }}
-<main class="main list dfp" role="main">
+<main>
 	{{- with .Title }}
 	<header class="main__header">
 		<h1 class="main__title">{{ . }}</h1>
@@ -8,15 +8,17 @@
 
   {{- $kids := .Pages }}
   {{- if gt (len $kids) 0 }}
-  <h1 class="widget__title">Contents</h1>
-  <ul class="widget__list">
+	<div class="content">
+  <h2>Contents</h2>
+  <ul>
   {{- range $name := $kids }}
-    <li class="widget__item">
+    <li>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </li>
   {{- end }}
   </ul>
   {{- end }}
+	</div>
 
 </main>
 {{ partial "pagination.html" . }}

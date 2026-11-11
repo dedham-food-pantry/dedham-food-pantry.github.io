@@ -44,15 +44,13 @@
 </head>
 <body>
 	{{ block "header" . }}{{ partial "header.html" . }}{{ end }}
-	<div class="container flex">
-		{{ block "main" . }}
-		{{ with .Content }}
-		<div class="content">
-			{{ . }}
-		</div>
-		{{ end }}
-		{{ end }}
+	{{ block "main" . }}
+	{{ with .Content }}
+	<div class="content">
+		{{ . }}
 	</div>
+	{{ end }}
+	{{ end }}
 	{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
 {{ range .Site.Params.customJS -}}
 <script src="{{ . | relURL }}"></script>
