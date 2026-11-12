@@ -534,3 +534,83 @@ footer a:focus-visible {
 	font-size: 1rem;
 	color: #fff;
 }
+
+/* Section landing pages (Need Help?, Please Donate) */
+.action-btn {
+	display: inline-block;
+	margin: 0.5rem 0;
+	padding: 0.75rem 1.25rem;
+	font-size: 1.05rem;
+	font-weight: 700;
+	color: #fff !important;
+	text-decoration: none !important;
+	background: #477000;
+	border-radius: 6px;
+}
+
+.action-btn:hover {
+	background: #365500;
+}
+
+.steps {
+	margin: 1rem 0 !important;
+	padding: 0;
+	list-style: none !important;
+	counter-reset: step;
+	max-width: 50rem;
+}
+
+.step,
+.way {
+	position: relative;
+	margin: 0 0 1rem;
+	padding: 1rem 1.25rem;
+	background: #fff;
+	border-left: 6px solid #477000;
+	border-radius: 6px;
+}
+
+.step {
+	counter-increment: step;
+	padding-left: 4rem;
+}
+
+.step::before {
+	content: counter(step);
+	position: absolute;
+	left: 1rem;
+	top: 1rem;
+	width: 2rem;
+	height: 2rem;
+	line-height: 2rem;
+	text-align: center;
+	font-weight: 700;
+	color: #fff;
+	background: #477000;
+	border-radius: 50%;
+}
+
+.step__title,
+.way__title {
+	margin-top: 0.25rem;
+}
+
+.ways {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+	gap: 1rem;
+	margin: 1rem 0;
+}
+
+.way {
+	margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+	.step {
+		padding-left: 3.25rem;
+	}
+	.step::before {
+		left: 0.75rem;
+	}
+}

@@ -6,19 +6,23 @@
 	</header>
 	{{- end }}
 
-  {{- $kids := .Pages }}
-  {{- if gt (len $kids) 0 }}
+	{{- with .Content }}
 	<div class="content">
-  <h2>Contents</h2>
-  <ul>
-  {{- range $name := $kids }}
-    <li>
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </li>
-  {{- end }}
-  </ul>
-  {{- end }}
+		{{ . }}
 	</div>
+	{{- end }}
+
+	{{- $kids := .Pages }}
+	{{- if gt (len $kids) 0 }}
+	<div class="content">
+		<h2>{{ if .Content }}All pages in this section{{ else }}Contents{{ end }}</h2>
+		<ul>
+		{{- range $kids }}
+			<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+		{{- end }}
+		</ul>
+	</div>
+	{{- end }}
 
 {{ partial "pagination.html" . }}
 </main>
