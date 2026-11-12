@@ -47,4 +47,4 @@ Dedham, MA 02027
  [2]: /donate/
  [4]: mailto:manager@dedhamfoodpantry.org
  [5]: tel:+17812691541
- [7]: /about/about/
+ [7]: /about/
