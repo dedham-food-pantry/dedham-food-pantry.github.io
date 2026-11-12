@@ -1,6 +1,7 @@
 ---
 title: Trivia Night 2026
 type: post
+draft: true  # hidden for now; delete this line to show it again
 date: 2026-02-22
 ---
 

@@ -41,7 +41,7 @@ P.O. Box 46<br/>
 Dedham, MA 02027
 
  [1]: /help/we-can-help/
- [2]: /donate/donate/
+ [2]: /donate/
  [3]: https://dedhamfoodpantry.galaxydigital.com/need/
  [4]: mailto:manager@dedhamfoodpantry.org
  [5]: tel:+17812691541
