@@ -221,16 +221,17 @@ Search by ZIP code for food pantries and meal programs near you.
 
 <div class="pantry">
 <h4 class="pantry__name">Walpole Community Food Pantry</h4>
-<p class="pantry__address">24 Walpole Park South<br>Walpole, MA 02081</p>
+<p class="pantry__address">24 Walpole Park South, Unit 5<br>Walpole, MA 02081</p>
 <p class="pantry__phone"><strong>Phone:</strong> <a href="tel:+15086680106">508-668-0106</a></p>
+<p class="pantry__phone"><strong>Website:</strong> <a href="https://www.wcfp.org/receive-food">wcfp.org</a> (register as a new client and order online)</p>
 <p class="pantry__label"><strong>Hours</strong></p>
 <ul class="pantry__hours">
-<li>Order online, or pick up a pre-packed order:</li>
-<li>Wednesdays 2:00pm – 3:00pm at Union Congregational Church, 55 Rhoades Ave., East Walpole (order Tuesdays, 2:00am – 6:00pm)</li>
-<li>Wednesdays 2:00pm – 3:30pm at Knights of Columbus, 137 Stone St., Walpole</li>
-<li>Saturdays 10:00am – 11:00am at United Church in Walpole, 30 Common St., Walpole (order Fridays, 2:00am – 6:00pm)</li>
+<li><strong>Online order, Wednesday pickup:</strong> 2:00pm – 3:00pm at Union Congregational Church, 55 Rhoades Ave., East Walpole. Order Tuesdays, 2:00am – 6:00pm.</li>
+<li><strong>Online order, Saturday pickup:</strong> 10:00am – 11:00am at United Church in Walpole, 30 Common St., Walpole. Order Fridays, 2:00am – 6:00pm.</li>
+<li><strong>Drive-through pre-packed boxes:</strong> Wednesdays 1:45pm – 3:15pm at the Knights of Columbus parking lot, 137 Stone St., Walpole. Please don't arrive early.</li>
+<li>One order per household per week. Bring your pantry ID card, which you get at your first pickup.</li>
 </ul>
-<p class="pantry__eligibility"><strong>Who can go:</strong> Eligible Walpole residents, based on economic need and availability.</p>
+<p class="pantry__eligibility"><strong>Who can go:</strong> Anyone in need of food support. There are no income requirements. New clients register online first.</p>
 </div>
 
 <h3 class="pantry-town" id="west-roxbury">West Roxbury</h3>
