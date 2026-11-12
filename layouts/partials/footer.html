@@ -10,11 +10,16 @@
 		</section>
 		<section class="footer__section" aria-labelledby="footer-hours">
 			<h2 class="footer__heading" id="footer-hours">Hours</h2>
+			<h3 class="footer__subheading">Donation drop-off</h3>
 			<ul class="footer__list">
-				{{- range .hours }}
+				{{- range .donationHours }}
 				<li>{{ . }}</li>
 				{{- end }}
 			</ul>
+			{{- with .shoppingHoursLink }}
+			<h3 class="footer__subheading">Shopping</h3>
+			<p><a href="{{ . }}">See shopping hours</a></p>
+			{{- end }}
 		</section>
 		<section class="footer__section" aria-labelledby="footer-contact">
 			<h2 class="footer__heading" id="footer-contact">Contact</h2>

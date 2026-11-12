@@ -528,3 +528,9 @@ footer a:focus-visible {
 	padding: 0.5rem 0;
 	border-top: 1px solid rgba(255, 255, 255, .2);
 }
+
+.footer__subheading {
+	margin: 0.5rem 0 0;
+	font-size: 1rem;
+	color: #fff;
+}
