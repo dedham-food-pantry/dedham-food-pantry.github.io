@@ -21,7 +21,7 @@ If you have any questions, please <a href="/#contact">reach out to us</a>.
 
 Our most urgent need is for volunteers to help our clients shop for the food that they need.
 
-We have opportunities on Saturday morning (4 hours - 7:45-11:45am), the first and third Wednesday of every month (2 hours - 5:00-7:00pm), and the second and fourth Wednesday of every month (2 hours - 12:30-2:30pm).
+We have opportunities on Saturday morning (4 hours - 7:45-11:45am), the first and third Wednesday of every month (2 hours - 5:00-7:00pm), and the second and fourth Wednesday of every month (2 hours - 12:00-2:00pm).
 
 * Work 1-on-1 with clients to help them shop
 * Work outdoors helping clients load their food into their vehicles
