@@ -755,3 +755,42 @@ nav.menu {
 .shop-hours__note {
 	margin: 0;
 }
+
+/* Nearby Pantries page */
+.town-list {
+	margin: 0.5rem 0 1rem;
+	line-height: 2;
+}
+
+.pantry-town {
+	margin-top: 2rem;
+	padding-bottom: 0.25rem;
+	border-bottom: 2px solid #477000;
+	scroll-margin-top: 1rem;
+}
+
+.pantry {
+	margin: 1rem 0;
+	padding: 1rem 1.25rem;
+	background: #fff;
+	border-left: 6px solid #477000;
+	border-radius: 6px;
+}
+
+.pantry--featured {
+	border-left-color: #bf2238;
+}
+
+.pantry h3,
+.pantry__name {
+	margin: 0 0 0.5rem;
+	font-size: 1.2rem;
+}
+
+.pantry p {
+	margin: 0 0 0.5rem;
+}
+
+.pantry__hours {
+	margin-bottom: 0.5rem !important;
+}
