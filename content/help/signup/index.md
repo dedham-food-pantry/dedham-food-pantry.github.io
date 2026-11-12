@@ -30,18 +30,13 @@ weight: 10
 
 ## How to sign up
 
-{{< figure
-  src="reserve-shopping-2026.png"
-  alt="QR code that opens our SignUpGenius shopping sign-up page"
-  link="https://www.signupgenius.com/go/4090F4CACA829A2F49-61412292-2026#/"
-  class="alignright"
->}}
-
-1. Open [our SignUpGenius page][2], or scan the QR code with your phone's camera.
+1. Press the **Go to our SignUpGenius** button below.
 2. If your phone asks, choose **Open "signupgenius.com"**.
 3. Pick the time you'd like to shop, then press **Submit & Sign Up**.
 4. Enter your first and last name, email and phone number. You'll get a confirmation email.
 5. Bookmark the page so it's easy to sign up next time.
+
+<a class="action-btn" href="https://www.signupgenius.com/go/4090F4CACA829A2F49-61412292-2026#/" target="_blank" rel="noopener">Go to our SignUpGenius<span class="visually-hidden"> (opens in new tab)</span></a>
 
 ## FAQs
 
