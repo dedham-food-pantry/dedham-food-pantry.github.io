@@ -24,11 +24,9 @@ You can fill out the registration form at the Pantry, or print it ahead of time:
 
 We're open for shopping:
 
-* **Every Saturday morning**
-* **First and third Wednesday evenings** of the month
-* **Second and fourth Wednesday afternoons** of the month, for seniors
-
-Reservations are recommended. Walk-ins are welcome but will shop after people with reservations.
+* **Every Saturday, 8:00am – 11:30am**: sign-up required
+* **1st and 3rd Wednesdays, 5:00pm – 7:00pm**: sign-up required
+* **2nd and 4th Wednesdays, 12:30pm – 2:00pm**: seniors 65 and older, no sign-up needed
 
 <a class="action-btn" href="/help/signup/">Shopping times and how to reserve</a>
 </li>
