@@ -19,6 +19,16 @@ Free help finding food programs wherever you live in Massachusetts, in many lang
 
 </div>
 
+<div class="pantry pantry--featured">
+
+### Greater Boston Food Bank pantry locator
+
+Search by ZIP code for food pantries and meal programs near you.
+
+<a class="action-btn" href="https://www.gbfb.org/need-food/">Find more food pantries near you<span class="visually-hidden"> on the Greater Boston Food Bank website</span></a>
+
+</div>
+
 ## Pantries by town
 
 <nav class="town-list" aria-label="Jump to a town">

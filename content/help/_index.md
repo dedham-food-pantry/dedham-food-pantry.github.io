@@ -42,6 +42,8 @@ Choose the food your household needs, including fresh produce, milk, eggs, meat 
 
 We can only serve Dedham residents, but help is close by. Call or text Project Bread's FoodSource Hotline at [1-800-645-8333](tel:+18006458333), or see our [list of nearby food pantries](/help/nearby-pantries/).
 
+<a class="action-btn" href="https://www.gbfb.org/need-food/">Find food pantries near you on the Greater Boston Food Bank website</a>
+
 ## Questions?
 
 Call or text [(781) 269-1541](tel:+17812691541) or email [manager@dedhamfoodpantry.org](mailto:manager@dedhamfoodpantry.org).
