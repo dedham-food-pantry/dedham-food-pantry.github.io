@@ -1,5 +1,5 @@
 {{ define "main" }}
-<main>
+<main id="main-content" tabindex="-1">
 	{{- with .Title }}
 	<header class="main__header">
 		<h1 class="main__title">{{ . }}</h1>
@@ -20,6 +20,6 @@
   {{- end }}
 	</div>
 
-</main>
 {{ partial "pagination.html" . }}
+</main>
 {{ end }}

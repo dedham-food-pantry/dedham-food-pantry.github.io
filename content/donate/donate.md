@@ -17,7 +17,7 @@ We rely on cash donations to purchase food for our clients.
 There is a greater need than ever to help Dedham families, so we ask for your generous donation.
 
   * You can donate online with PayPal - _it's safe and secure_!<br/>
-	<a class="donate-btn donate-btn--paypal" href="https://www.paypal.com/fundraiser/charity/106215" target="_blank" rel="noopener">Donate with PayPal</a>
+	<a class="donate-btn donate-btn--paypal" href="https://www.paypal.com/fundraiser/charity/106215" target="_blank" rel="noopener">Donate with PayPal<span class="visually-hidden"> (opens in new tab)</span></a>
   * [Donate in memory][4] of a loved one in lieu of flowers.
   * Mail a check to:<br>Dedham Food Pantry<br>P.O. Box 46<br>Dedham, MA 02027
 
@@ -48,7 +48,7 @@ Please reference our flyer for a list of items that will make the greatest impac
 
 Want to help but can't make it to the Pantry? Shop our Amazon Wishlist to purchase food, personal care products, and other essential items that can be shipped directly to us.
 
-<a class="donate-btn donate-btn--amazon" href="https://a.co/0dljeuEL" target="_blank" rel="noopener">Shop Our Amazon Wishlist</a>
+<a class="donate-btn donate-btn--amazon" href="https://a.co/0dljeuEL" target="_blank" rel="noopener">Shop Our Amazon Wishlist<span class="visually-hidden"> (opens in new tab)</span></a>
 
 ### Shop Our Chewy Wishlist
 
@@ -56,7 +56,7 @@ Want to help but can't make it to the Pantry? Shop our Amazon Wishlist to purcha
 
 We know that pets are important members of the family. Our Chewy Wishlist makes it easy to donate pet food and supplies so that our neighbors don't have to choose between feeding themselves and caring for their pets.
 
-<a class="donate-btn donate-btn--chewy" href="https://www.chewy.com/g/dedham-food-pantry_b160404685#wish-list&wishlistsortby=AVAILABILITY" target="_blank" rel="noopener">Shop Our Chewy Wishlist</a>
+<a class="donate-btn donate-btn--chewy" href="https://www.chewy.com/g/dedham-food-pantry_b160404685#wish-list&wishlistsortby=AVAILABILITY" target="_blank" rel="noopener">Shop Our Chewy Wishlist<span class="visually-hidden"> (opens in new tab)</span></a>
 
 ### Drop Off a Donation
 

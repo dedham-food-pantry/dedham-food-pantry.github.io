@@ -1,20 +1,22 @@
 ---
 layout: single
 ---
-# Do You Need Food?
+<h1 class="visually-hidden">Dedham Food Pantry</h1>
 
-We provide food **at no cost** to qualifying Dedham residents. [Click here to sign up.][1]
+## Do You Need Food?
 
-# Volunteer
+We provide food **at no cost** to qualifying Dedham residents. [Sign up to receive food.][1]
+
+## Volunteer
 
 Volunteering is the best way to help!
 [View our opportunities and register online.][3]
 
-# Donate
+## Donate
 
 All donations to the Dedham Food Pantry have a significant impact. [Please donate!][2]
 
-# [About Us][7]
+## [About Us][7]
 
 Our mission is to **end hunger in Dedham**. Everyone deserves consistent access to healthy food and the dignity of support without judgment.
 
@@ -22,7 +24,7 @@ We distribute more than 28,000 bags of food annually to more than 500 households
 
 Our organization is non-denominational, non-political, run by volunteers, and funded entirely by [contributions][2].
 
-# Contact Us {#contact}
+## Contact Us {#contact}
 
 <iframe loading="lazy"
 src="https://maps.google.com/maps?q=600%20Washington%20St.%20Dedham%2C%20MA%2002026&#038;t=m&#038;z=10&#038;output=embed&#038;iwloc=near"
