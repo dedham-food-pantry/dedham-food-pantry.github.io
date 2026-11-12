@@ -683,25 +683,28 @@ footer a:focus-visible {
 	margin-right: auto;
 }
 
-.home header {
+/* Logo, menu and footer are centered on every page */
+body > header {
 	text-align: center;
 }
 
-.home .logo__link {
-	display: inline-block;
+/* Keep the stacked phone menu left-aligned so it's easy to scan */
+nav.menu {
+	text-align: left;
 }
 
 @media screen and (min-width: 767px) {
-	.home nav.menu ul {
+	nav.menu ul,
+	nav.menu.menu--js ul {
 		justify-content: center;
 	}
 }
 
-.home .footer__contact {
+.footer__contact {
 	justify-content: center;
 	text-align: center;
 }
 
-.home .footer__copyright {
+.footer__copyright {
 	text-align: center;
 }
