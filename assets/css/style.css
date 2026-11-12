@@ -27,10 +27,27 @@ body {
 	background: #faf7ea;
 }
 
+/* Keep the footer at the bottom of the window on short pages */
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+/* Content sits in a centered column on every page */
 main {
-	margin-left: 1rem;
-	margin-right: 1rem;
-	max-width: 1400px;
+	flex: 1 0 auto;
+	width: 100%;
+	box-sizing: border-box;
+	max-width: 62rem;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0 1rem;
+}
+
+.post__header,
+.main__header {
+	text-align: center;
 }
 
 /* Button */
@@ -657,10 +674,6 @@ footer a:focus-visible {
 
 /* Center the home page content */
 .home main {
-	max-width: 60rem;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 0 1rem;
 	text-align: center;
 }
 
