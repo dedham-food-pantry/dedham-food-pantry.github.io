@@ -721,3 +721,37 @@ nav.menu {
 .footer__copyright {
 	text-align: center;
 }
+
+/* Shopping hours (When and How to Shop page) */
+.shop-hours {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+	gap: 1rem;
+	margin: 1rem 0 !important;
+	padding: 0;
+	list-style: none !important;
+}
+
+.shop-hours__item {
+	margin: 0 !important;
+	padding: 1rem 1.25rem;
+	background: #fff;
+	border-top: 5px solid #477000;
+	border-radius: 6px;
+}
+
+.shop-hours__day {
+	margin: 0 0 0.25rem;
+	font-size: 1.15rem;
+}
+
+.shop-hours__time {
+	margin: 0 0 0.5rem;
+	font-size: 1.5rem;
+	font-weight: 700;
+	color: #477000;
+}
+
+.shop-hours__note {
+	margin: 0;
+}
