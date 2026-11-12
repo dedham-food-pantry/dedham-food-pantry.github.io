@@ -59,6 +59,6 @@ We get three deliveries each month from the Greater Boston Food Bank. The food a
 If this interests you, please [sign up][2].
 
  [1]: /store-pickup/
- [2]: /involved/volunteer-online/
+ [2]: https://dedhamfoodpantry.galaxydigital.com/need/
  [3]: https://foodrescue.us/boston
  [4]: https://app.foodrescue.us/signup
