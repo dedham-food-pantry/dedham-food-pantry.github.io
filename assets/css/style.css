@@ -158,12 +158,12 @@ nav {
 }
 
 /* This is the green from our logo. */
-nav.menu ul, nav.menu label {
+nav.menu ul, nav.menu .menu__toggle {
   background: #477000;
 }
 
 /* Shrink the nav bar's vertical padding. */
-nav.menu a, nav.menu label {
+nav.menu a, nav.menu .menu__toggle {
 	display: block;
 	font-weight: 700;
 	color: #e7e7e7;
@@ -171,38 +171,47 @@ nav.menu a, nav.menu label {
 	padding: 0.35rem 0.9375rem;
 }
 
-nav.menu input {
-  /* critical styles - hide the checkbox input */
-  position: absolute;
-  clip: rect(0, 0, 0, 0);
-}
-
-nav.menu label {
-	display: block;
+nav.menu .menu__toggle {
 	width: 100%;
-	color: #e7e7e7;
+	margin: 0;
 	border: 0;
-	outline: 0;
-	position: relative;
+	font: inherit;
 	font-weight: 700;
 	text-align: right;
-	text-transform: uppercase;
 	cursor: pointer;
-	user-select: none;
+}
+
+nav.menu .menu__toggle[hidden] {
+	display: none;
+}
+
+nav.menu .menu__arrow::after {
+	content: " \25BE"; /* small down arrow */
+}
+
+nav.menu.menu--open .menu__arrow::after {
+	content: " \25B4"; /* small up arrow */
 }
 
 nav.menu ul {
 	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+/* On phones, hide the links until the Menu button is pressed. Only
+   applies when JavaScript is running (menu--js), so the links are never
+   unreachable. */
+nav.menu.menu--js ul {
 	display: none;
+}
+
+nav.menu.menu--js.menu--open ul {
+	display: block;
 }
 
 nav.menu li.active {
 	background: {{ $highlightColor }};
-}
-
-nav.menu input:checked ~ ul {
-	display: block;
-	color: {{ $highlightColor }};
 }
 
 /* Posts/Pages */
@@ -314,11 +323,12 @@ input {
 }
 
 @media screen and (min-width: 767px) {
-	nav.menu input, nav.menu label {
-		display: none;
+	nav.menu .menu__toggle {
+		display: none !important;
 	}
 
-	nav.menu ul {
+	nav.menu ul,
+	nav.menu.menu--js ul {
 		position: relative;
 		display: flex;
 		flex-wrap: wrap;
@@ -475,14 +485,13 @@ main:focus {
 /* Clear, thick focus outline for keyboard users */
 a:focus-visible,
 button:focus-visible,
-input:focus-visible + label,
 iframe:focus-visible {
 	outline: 3px solid #1a1a1a;
 	outline-offset: 2px;
 }
 
 nav.menu a:focus-visible,
-nav.menu input:focus-visible + label {
+nav.menu .menu__toggle:focus-visible {
 	outline: 3px solid #ffd23f;
 	outline-offset: -3px;
 }
