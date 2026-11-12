@@ -42,7 +42,7 @@
 		{{ template "_internal/google_analytics.html" . }}
 	{{- end }}
 </head>
-<body>
+<body{{ if .IsHome }} class="home"{{ end }}>
 	<a class="skip-link" href="#main-content">Skip to main content</a>
 	{{ block "header" . }}{{ partial "header.html" . }}{{ end }}
 	{{ block "main" . }}

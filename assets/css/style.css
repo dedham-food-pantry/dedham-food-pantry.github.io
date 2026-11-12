@@ -654,3 +654,54 @@ footer a:focus-visible {
 		height: 240px;
 	}
 }
+
+/* Center the home page content */
+.home main {
+	max-width: 60rem;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0 1rem;
+	text-align: center;
+}
+
+.home .home-lead {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.home .home-stats {
+	justify-content: center;
+}
+
+.home .home-contact {
+	margin: 0 auto;
+}
+
+.home main p {
+	max-width: 46rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.home header {
+	text-align: center;
+}
+
+.home .logo__link {
+	display: inline-block;
+}
+
+@media screen and (min-width: 767px) {
+	.home nav.menu ul {
+		justify-content: center;
+	}
+}
+
+.home .footer__contact {
+	justify-content: center;
+	text-align: center;
+}
+
+.home .footer__copyright {
+	text-align: center;
+}
