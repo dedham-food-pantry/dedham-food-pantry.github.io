@@ -32,9 +32,12 @@ phoneLink = "tel:+17812691541"
 email = "manager@dedhamfoodpantry.org"
 
 [Params.logo]
-image = "DFP_Main_Color_SmallVersion.png"
-altText = "The Dedham Food Pantry logo which is a shopping basket full of healthy food."
-subtitle = "Neighbors Helping Neighbors"
+# Full logo with the name and tagline built in. It's the only content of
+# the home link, so altText is what screen readers announce for that link.
+image = "DFP_Logo_Full.png"
+width = 1000
+height = 296
+altText = "Dedham Food Pantry: Neighbors Helping Neighbors. Home page"
 
 [Params.style.vars]
   highlightColor = "#477000"
