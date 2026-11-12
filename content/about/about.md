@@ -13,7 +13,7 @@ We believe that everyone deserves consistent access to healthy food and the dign
 
 The Dedham Food Pantry is non-denominational, non-political, and supported by generous [donors][1] and dedicated [volunteers][2], including a volunteer [Board of Trustees][3]. We are a 501(c)(3) nonprofit corporation so all [donations][1] are fully tax deductible. Our EIN number is 04-3098455 and we're happy to provide our current Form W-9 on request.
 
- [1]: /donate/donate/
+ [1]: /donate/
  [2]: https://dedhamfoodpantry.galaxydigital.com/need/
  [3]: /about/board-of-trustees/
  [4]: /about/history/
