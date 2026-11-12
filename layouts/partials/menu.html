@@ -1,14 +1,38 @@
-<nav class="menu">
-	<input type="checkbox" id="nav-trigger" />
-	<label for="nav-trigger">Menu</label>
-	<ul>
+<nav class="menu" aria-label="Main">
+	{{/* The toggle button is only shown on phones, and only once JavaScript
+	     is running. Without JavaScript the menu is always visible. */}}
+	<button class="menu__toggle" type="button" aria-expanded="false" aria-controls="main-menu" hidden>Menu<span class="menu__arrow" aria-hidden="true"></span></button>
+	<ul id="main-menu">
 		{{- $currentNode := . }}
 		{{- range .Site.Menus.main }}
 		{{- if .Name }}
-		<li {{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}class="active"{{ end }}>
-			<a href="{{ .URL }}">{{ .Pre }}{{ .Name }}{{ .Post }}</a>
+		{{- $isCurrent := or ($currentNode.IsMenuCurrent "main" .) (eq $currentNode.RelPermalink .URL) }}
+		<li {{ if or $isCurrent ($currentNode.HasMenuCurrent "main" .) }}class="active"{{ end }}>
+			<a href="{{ .URL }}"{{ if $isCurrent }} aria-current="page"{{ end }}>{{ .Pre }}{{ .Name }}{{ .Post }}</a>
 		</li>
 		{{- end }}
 		{{- end }}
 	</ul>
+	<script>
+	(function () {
+		var nav = document.currentScript.parentNode;
+		var button = nav.querySelector('.menu__toggle');
+		var menu = document.getElementById('main-menu');
+		nav.classList.add('menu--js');
+		button.hidden = false;
+		function setOpen(open) {
+			button.setAttribute('aria-expanded', open ? 'true' : 'false');
+			nav.classList.toggle('menu--open', open);
+		}
+		button.addEventListener('click', function () {
+			setOpen(button.getAttribute('aria-expanded') !== 'true');
+		});
+		document.addEventListener('keydown', function (e) {
+			if (e.key === 'Escape' && button.getAttribute('aria-expanded') === 'true') {
+				setOpen(false);
+				button.focus();
+			}
+		});
+	})();
+	</script>
 </nav>
