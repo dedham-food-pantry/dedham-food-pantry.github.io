@@ -210,8 +210,18 @@ nav.menu.menu--js.menu--open ul {
 	display: block;
 }
 
+/* Current page in the menu: darker green plus a yellow bar, so it
+   stands out by more than color alone. Bar is on the left on phones
+   (stacked menu) and along the bottom on wider screens. */
 nav.menu li.active {
-	background: {{ $highlightColor }};
+	background: #2f4a00;
+	box-shadow: inset 5px 0 0 #ffd23f;
+}
+
+@media screen and (min-width: 767px) {
+	nav.menu li.active {
+		box-shadow: inset 0 -4px 0 #ffd23f;
+	}
 }
 
 /* Posts/Pages */
