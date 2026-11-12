@@ -486,3 +486,51 @@ nav.menu input:focus-visible + label {
 	outline: 3px solid #ffd23f;
 	outline-offset: -3px;
 }
+
+/* Footer contact details */
+footer {
+	margin-top: 2rem;
+}
+
+.footer__contact {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem 3rem;
+	padding: 1rem 0 0.5rem;
+	font-size: 1rem;
+	line-height: 1.5;
+}
+
+.footer__heading {
+	margin: 0 0 0.25rem;
+	font-size: 1.1rem;
+	color: #fff;
+}
+
+.footer__section p,
+.footer__list {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+footer a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+footer a:focus-visible {
+	outline: 3px solid #ffd23f;
+	outline-offset: 2px;
+}
+
+.footer__copyright {
+	padding: 0.5rem 0;
+	border-top: 1px solid rgba(255, 255, 255, .2);
+}
+
+.footer__subheading {
+	margin: 0.5rem 0 0;
+	font-size: 1rem;
+	color: #fff;
+}

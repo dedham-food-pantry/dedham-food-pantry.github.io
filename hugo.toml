@@ -20,6 +20,17 @@ enableDefault = true
 description = "The Dedham Food Pantry provides food at no cost to qualifying Dedham residents."
 googleFontsLink = false
 
+[Params.contact]
+addressLine1 = "600 Washington Street"
+addressLine2 = "Dedham, MA 02026"
+addressNote = "North end of the Dedham Plaza"
+mapLink = "https://maps.app.goo.gl/TsfNto11XW5p3oYS6"
+donationHours = ["Tuesday–Friday: 10am–12pm", "Saturday: 12pm–2pm"]
+shoppingHoursLink = "/help/signup/"
+phone = "(781) 269-1541"
+phoneLink = "tel:+17812691541"
+email = "manager@dedhamfoodpantry.org"
+
 [Params.logo]
 image = "DFP_Main_Color_SmallVersion.png"
 altText = "The Dedham Food Pantry logo which is a shopping basket full of healthy food."
