@@ -10,9 +10,9 @@
 	<a class="logo__link" href="/"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
 		{{ with $logoImage -}}
 			{{ if $logoAlt }}
-			<img class="logo__img" src="{{ . | relURL }}" alt="{{ $logoAlt }}">
+			<img class="logo__img" src="{{ . | relURL }}" alt="">
 			{{ else }}
-			<img class="logo__img" src="{{ . | relURL }}">
+			<img class="logo__img" src="{{ . | relURL }}" alt="">
 			{{ end }}
 		{{- end -}}
 		{{ with $logoTitle -}}
