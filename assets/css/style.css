@@ -845,3 +845,30 @@ nav.menu {
 .cta-banner--trot .cta-banner__title {
 	color: #8a4500;
 }
+
+/* Banner with a logo beside the text */
+.cta-banner--trot {
+	display: flex;
+	align-items: center;
+	gap: 1.5rem;
+}
+
+.cta-banner__logo {
+	flex: 0 0 auto;
+	width: 150px;
+	height: auto;
+}
+
+.cta-banner__body {
+	flex: 1 1 auto;
+}
+
+@media screen and (max-width: 600px) {
+	.cta-banner--trot {
+		flex-direction: column;
+		text-align: center;
+	}
+	.cta-banner__logo {
+		width: 160px;
+	}
+}
