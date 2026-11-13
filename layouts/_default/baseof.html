@@ -31,7 +31,10 @@
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
 
-	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
+	<link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="any">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
+	<link rel="icon" type="image/png" sizes="192x192" href="{{ "icon-192.png" | relURL }}">
+	<link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
 	{{- $server := "" }}
 	{{- if gt (int (index (split hugo.Version ".") 1)) "120" }}
 		{{ $server = hugo.IsServer }}
