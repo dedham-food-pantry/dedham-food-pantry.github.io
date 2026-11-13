@@ -64,7 +64,7 @@ Donated items fill the gaps on our shelves and give families more choice.
 
 <a class="action-btn" href="https://calendar.app.google/oYdaYdtMqukhx6QY6">Schedule a drop-off</a>
 
-Questions? Call or text [781-269-1541](tel:+17812691541) or email [becca@dedhamfoodpantry.org](mailto:becca@dedhamfoodpantry.org).
+Questions? Call or text [781-269-1541](tel:+17812691541) or email [manager@dedhamfoodpantry.org](mailto:manager@dedhamfoodpantry.org).
 
 ## Double Your Donation {#double-your-donation}
 
