@@ -31,6 +31,16 @@ phone = "(781) 269-1541"
 phoneLink = "tel:+17812691541"
 email = "manager@dedhamfoodpantry.org"
 
+[[Params.social]]
+name = "Facebook"
+url = "https://www.facebook.com/DedhamFoodPantry"
+[[Params.social]]
+name = "Instagram"
+url = "https://www.instagram.com/dedhamfoodpantry/"
+[[Params.social]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/company/dedhamfoodpantry"
+
 [Params.logo]
 # Full logo with the name and tagline built in. It's the only content of
 # the home link, so altText is what screen readers announce for that link.

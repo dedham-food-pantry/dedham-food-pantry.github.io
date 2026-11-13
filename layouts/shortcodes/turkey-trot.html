@@ -1,0 +1,23 @@
+{{/* Turkey Trot call to action. Hidden after Thanksgiving: left out of builds
+     made after the end date, and hidden in the browser by the script below
+     (the site only rebuilds when it changes). Change or remove the date to
+     reuse it next year. */}}
+{{- $until := time "2026-11-27T00:00:00-05:00" }}
+{{- if now.Before $until }}
+<aside class="cta-banner cta-banner--trot" data-until="{{ $until.Format "2006-01-02T15:04:05-07:00" }}" aria-labelledby="turkey-trot-title">
+	<img class="cta-banner__logo" src="/turkey-trot-2026.png" width="400" height="437" alt="Family Gratitude Turkey Trot 5K, Dedham MA, November 26, 2026">
+	<div class="cta-banner__body">
+		<h2 class="cta-banner__title" id="turkey-trot-title">Run the Turkey Trot on Thanksgiving Day</h2>
+	<p>The Ripples of Hope Family Gratitude 5K Turkey Trot on <strong>Thursday, November 26</strong> benefits the Dedham Food Pantry. Sign up to run or walk, and <strong>bring a non-perishable food item</strong> for our food drive at the race.</p>
+	<p class="cta-banner__actions">
+		<a class="action-btn" href="https://www.ripplesofhope.org/turkey-trot">Sign up for the Turkey Trot</a>
+	</p>
+	</div>
+	<script>
+	(function () {
+		var el = document.currentScript.parentNode;
+		if (Date.now() >= Date.parse(el.getAttribute('data-until'))) el.hidden = true;
+	})();
+	</script>
+</aside>
+{{- end }}

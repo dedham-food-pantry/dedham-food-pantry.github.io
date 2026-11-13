@@ -3,6 +3,8 @@ layout: single
 ---
 <h1 class="visually-hidden">Dedham Food Pantry</h1>
 
+{{< turkey-trot >}}
+
 {{< ride-stride >}}
 
 ## About Us

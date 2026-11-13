@@ -837,3 +837,75 @@ nav.menu {
 .home main .cta-banner p {
 	max-width: none;
 }
+
+.cta-banner--trot {
+	border-color: #8a4500;
+}
+
+.cta-banner--trot .cta-banner__title {
+	color: #8a4500;
+}
+
+/* Banner with a logo beside the text */
+.cta-banner--trot {
+	display: flex;
+	align-items: center;
+	gap: 1.5rem;
+}
+
+.cta-banner__logo {
+	flex: 0 0 auto;
+	width: 150px;
+	height: auto;
+}
+
+.cta-banner__body {
+	flex: 1 1 auto;
+}
+
+@media screen and (max-width: 600px) {
+	.cta-banner--trot {
+		flex-direction: column;
+		text-align: center;
+	}
+	.cta-banner__logo {
+		width: 160px;
+	}
+}
+
+/* Social media links in the footer */
+.footer__social {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 0.75rem;
+	padding: 0.75rem 0;
+	border-top: 1px solid rgba(255, 255, 255, .2);
+	font-size: 1rem;
+}
+
+.footer__social-label {
+	font-weight: 700;
+	color: #fff;
+}
+
+.footer__social-link {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 44px;
+	height: 44px;
+	border-radius: 50%;
+	color: #477000 !important;
+	background: #fff;
+	text-decoration: none !important;
+}
+
+.footer__social-link:hover {
+	background: #ffd23f;
+}
+
+.footer__social-link svg {
+	width: 24px;
+	height: 24px;
+}
