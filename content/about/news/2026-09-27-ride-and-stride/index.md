@@ -4,7 +4,7 @@ type: post
 date: 2026-09-09
 ---
 
-Dedham Food Pantry is proud of its 15-member 2026 Ride & Stride for Food team. Together, the team has raised more than $13,000 ([you can still donate here](https://ride.threesquaresne.org/team/828831)) to support DFP's work to end hunger in Dedham. Though the cycling event and walk were cancelled due to the storm, Team DFP gathered for a celebration with Three Squares New England and our team plans to get together for a 25-mile ride on October 25th! Thank you, Team DFP, for all of your enthusiasm!
+Dedham Food Pantry is proud of its 15-member 2026 Ride & Stride for Food team. Together, the team has raised more than $15,000 ([you can still donate here](https://ride.threesquaresne.org/team/828831)) to support DFP's work to end hunger in Dedham. Though the cycling event and walk were cancelled due to the storm, Team DFP gathered for a celebration with Three Squares New England and our team plans to get together for a 25-mile ride on October 25th! Thank you, Team DFP, for all of your enthusiasm!
 
 {{< figure
   src="Ride and Stride 2026 Team DFP cropped.jpg"
