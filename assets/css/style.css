@@ -909,3 +909,39 @@ nav.menu {
 	width: 24px;
 	height: 24px;
 }
+
+/* Most-needed items list (Donate page) */
+.needs {
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	gap: 1rem;
+	margin: 0.5rem 0 1.5rem;
+}
+
+.needs__group {
+	padding: 1rem 1.25rem;
+	background: #fff;
+	border-top: 5px solid #477000;
+	border-radius: 6px;
+}
+
+.needs__title {
+	margin: 0 0 0.5rem;
+	font-size: 1.1rem;
+}
+
+.needs__group ul {
+	margin: 0 0 0 1.25rem !important;
+	columns: 2 14rem;
+	column-gap: 2rem;
+}
+
+.needs__group li {
+	break-inside: avoid;
+}
+
+@media screen and (max-width: 767px) {
+	.needs {
+		grid-template-columns: 1fr;
+	}
+}

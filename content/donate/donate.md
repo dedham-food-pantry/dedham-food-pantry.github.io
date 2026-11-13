@@ -21,9 +21,33 @@ Donated items fill the gaps on our shelves and give families more choice.
 
 ### 1. See what we need most
 
-<a href="/donate/Food%20Donation%20Poster.png">
-  <img class="flyer-preview" src="/donate/Food%20Donation%20Poster.png" alt="Flyer listing our most-needed items. Select to view full size." />
-</a>
+<div class="needs">
+<div class="needs__group">
+<h4 class="needs__title">Food</h4>
+<ul>
+<li>Breakfast cereal (fun kid cereals!)</li>
+<li>Oatmeal: flavored packets or plain</li>
+<li>Pasta, any shape!</li>
+<li>White rice, 1 lb bags</li>
+<li>Flavored boxed rice</li>
+<li>Boxed mac &amp; cheese</li>
+<li>Canned tuna or chicken</li>
+<li>Chunky soups / Progresso soups</li>
+<li>Salad dressing and condiments</li>
+<li>Cooking oil (20 oz or less)</li>
+<li>Ground coffee (the Café Bustelo 4-pack from Costco or BJ's is a favorite!)</li>
+<li>Protein drinks</li>
+</ul>
+</div>
+<div class="needs__group">
+<h4 class="needs__title">Personal care</h4>
+<ul>
+<li>Baby diapers and wipes (size 2 and up)</li>
+<li>Adult diapers (all sizes)</li>
+<li>Shampoo and conditioner</li>
+</ul>
+</div>
+</div>
 
 ### 2. Shop online and ship to us
 
