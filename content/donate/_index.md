@@ -24,7 +24,7 @@ Or mail a check to Dedham Food Pantry, P.O. Box 46, Dedham, MA 02027. Many emplo
 <section class="way">
 <h2 class="way__title">Give food and essentials</h2>
 
-We especially need coffee, canned tuna, soups, cereal, personal care items, and gluten-free and baby foods.
+We especially need cereal, pasta, rice, canned tuna and chicken, soups, coffee, diapers and shampoo.
 
 **Drop-off hours:** Tuesday–Friday 10am–12pm, Saturday 12pm–2pm. For large donations or food drives, please contact us first.
 
