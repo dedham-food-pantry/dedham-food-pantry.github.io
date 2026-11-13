@@ -3,6 +3,8 @@ layout: single
 ---
 <h1 class="visually-hidden">Dedham Food Pantry</h1>
 
+{{< ride-stride >}}
+
 ## About Us
 
 <p class="home-lead">Our mission is to <strong>end hunger in Dedham</strong>. Everyone deserves consistent access to healthy food and the dignity of support without judgment.</p>

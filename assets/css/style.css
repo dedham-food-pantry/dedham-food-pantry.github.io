@@ -794,3 +794,46 @@ nav.menu {
 .pantry__hours {
 	margin-bottom: 0.5rem !important;
 }
+
+/* Call-to-action banner (e.g. Ride & Stride) */
+.cta-banner {
+	margin: 1.25rem 0 1.5rem;
+	padding: 1.25rem 1.5rem;
+	background: #fff;
+	border: 2px solid #bf2238;
+	border-left-width: 8px;
+	border-radius: 8px;
+	text-align: left;
+}
+
+.home .cta-banner {
+	text-align: center;
+	border-left-width: 2px;
+	border-top-width: 8px;
+}
+
+.cta-banner[hidden] {
+	display: none;
+}
+
+.cta-banner__title {
+	margin-top: 0;
+	color: #bf2238;
+}
+
+.cta-banner p {
+	margin: 0 0 0.75rem;
+}
+
+.cta-banner__actions {
+	margin-bottom: 0 !important;
+}
+
+.cta-banner__more {
+	display: inline-block;
+	margin-left: 1rem;
+}
+
+.home main .cta-banner p {
+	max-width: none;
+}
