@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /site-audit.csv
+
+Sitemap: https://dedhamfoodpantry.org/sitemap.xml
