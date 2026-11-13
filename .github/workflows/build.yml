@@ -43,6 +43,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
+          # Full history so the site audit can read each page's last-updated date
+          fetch-depth: 0
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -53,6 +55,8 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Build site URL audit (site-audit.csv, read by the Google Sheet)
+        run: python3 scripts/site_audit.py public public/site-audit.csv
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
