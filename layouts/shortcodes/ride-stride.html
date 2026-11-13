@@ -1,0 +1,22 @@
+{{/* Ride & Stride for Food call to action.
+     Hidden after the end date: left out of builds made after it, and hidden
+     in the browser by the script below (the site only rebuilds when it
+     changes, so the script covers the gap). Change or remove the date to
+     reuse it next year. */}}
+{{- $until := time "2026-12-01T00:00:00-05:00" }}
+{{- if now.Before $until }}
+<aside class="cta-banner" data-until="{{ $until.Format "2006-01-02T15:04:05-07:00" }}" aria-labelledby="ride-stride-title">
+	<h2 class="cta-banner__title" id="ride-stride-title">Support Team DFP in Ride &amp; Stride for Food</h2>
+	<p>Our 15-member team has raised more than $13,000 to help end hunger in Dedham. Help us finish strong: <strong>donate to Team DFP by November 30.</strong></p>
+	<p class="cta-banner__actions">
+		<a class="action-btn" href="https://ride.threesquaresne.org/team/828831">Donate to Team DFP</a>
+		<a class="cta-banner__more" href="/about/news/2026-09-27-ride-and-stride/">Read about Team DFP</a>
+	</p>
+	<script>
+	(function () {
+		var el = document.currentScript.parentNode;
+		if (Date.now() >= Date.parse(el.getAttribute('data-until'))) el.hidden = true;
+	})();
+	</script>
+</aside>
+{{- end }}
