@@ -837,3 +837,11 @@ nav.menu {
 .home main .cta-banner p {
 	max-width: none;
 }
+
+.cta-banner--trot {
+	border-color: #8a4500;
+}
+
+.cta-banner--trot .cta-banner__title {
+	color: #8a4500;
+}
