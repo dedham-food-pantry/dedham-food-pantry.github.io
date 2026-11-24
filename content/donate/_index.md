@@ -3,11 +3,9 @@ title: Please Donate
 weight: 2
 description: Your donation helps feed Dedham families. Give money online, donate food and essentials, or start a fundraiser.
 ---
-{{< turkey-trot >}}
+{{< giving-tuesday >}}
 
 {{< ride-stride >}}
-
-{{< giving-tuesday >}}
 
 Your gift helps feed more than 500 Dedham households. We're run entirely by volunteers, and the Pantry is a 501(c)(3) nonprofit, so donations are fully tax deductible.
 

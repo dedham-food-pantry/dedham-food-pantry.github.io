@@ -5,9 +5,9 @@ layout: single
 
 {{< turkey-trot >}}
 
-{{< ride-stride >}}
-
 {{< giving-tuesday >}}
+
+{{< ride-stride >}}
 
 ## About Us
 
