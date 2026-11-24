@@ -4,8 +4,8 @@
      when it changes). Change or remove the date to reuse it next year. */}}
 {{- $until := time "2027-01-01T00:00:00-05:00" }}
 {{- if now.Before $until }}
-<aside class="cta-banner" data-until="{{ $until.Format "2006-01-02T15:04:05-07:00" }}" aria-labelledby="giving-tuesday-title">
-	<h2 class="cta-banner__title" id="giving-tuesday-title">Have your gift matched starting Giving Tuesday, December 1</h2>
+<aside class="cta-banner cta-banner--match" data-until="{{ $until.Format "2006-01-02T15:04:05-07:00" }}" aria-labelledby="giving-tuesday-title">
+	<h2 class="cta-banner__title cta-banner--match" id="giving-tuesday-title">Have your gift matched starting Giving Tuesday, December 1</h2>
 	<p>PayPal has committed $1 million to match donations to charities. Starting <strong>Tuesday, December 1</strong>, PayPal will match eligible donations up to $250 per donor, and the Dedham Food Pantry can receive up to $10,000 in matching funds. Go to PayPal&rsquo;s Giving Tuesday page and <strong>search for &ldquo;Dedham Food Pantry.&rdquo;</strong></p>
 	<p>Whether you give $5, $25 or $100, every donation matters. Terms and conditions apply.</p>
 	<p class="cta-banner__actions">

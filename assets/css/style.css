@@ -846,6 +846,14 @@ nav.menu {
 	color: #8a4500;
 }
 
+.cta-banner--match {
+	border-color: #477000;
+}
+
+.cta-banner--match .cta-banner__title {
+	color: #477000;
+}
+
 /* Banner with a logo beside the text */
 .cta-banner--trot {
 	display: flex;
