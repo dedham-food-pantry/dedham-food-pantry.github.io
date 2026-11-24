@@ -1,0 +1,20 @@
+{{/* Giving Tuesday call to action (PayPal matching fundraiser).
+     Hidden after Giving Tuesday: left out of builds made after the end date,
+     and hidden in the browser by the script below (the site only rebuilds
+     when it changes). Change or remove the date to reuse it next year. */}}
+{{- $until := time "2026-12-02T00:00:00-05:00" }}
+{{- if now.Before $until }}
+<aside class="cta-banner" data-until="{{ $until.Format "2006-01-02T15:04:05-07:00" }}" aria-labelledby="giving-tuesday-title">
+	<h2 class="cta-banner__title" id="giving-tuesday-title">Have your gift matched on Giving Tuesday, December 1</h2>
+	<p>This Giving Tuesday, PayPal is matching donations made through its Giving Tuesday fundraiser. Go to the PayPal fundraiser page, <strong>search for &ldquo;Dedham Food Pantry,&rdquo;</strong> and give on <strong>Tuesday, December 1</strong> so your donation can be matched.</p>
+	<p class="cta-banner__actions">
+		<a class="action-btn" href="https://www.paypal.com/fundraiser/128347937940251433">Give on PayPal&rsquo;s Giving Tuesday page</a>
+	</p>
+	<script>
+	(function () {
+		var el = document.currentScript.parentNode;
+		if (Date.now() >= Date.parse(el.getAttribute('data-until'))) el.hidden = true;
+	})();
+	</script>
+</aside>
+{{- end }}
