@@ -6,16 +6,20 @@ date: 2013-09-13T17:59:14+00:00
 
 The Dedham Food Pantry is governed by a volunteer board of trustees.
 
-| Name                | Position                         |
-|---------------------|----------------------------------|
-| Sarah MacDonald     | President                        |
-| Carol Burak         | Trustee                          |
-| Toby Cabot          | Trustee                          |
-| Bernadette Chirokas | Trustee                          |
-| Mike Downey         | Trustee, Treasurer               |
-| Nancy English       | Trustee                          |
-| Megan Hempstead     | Trustee, Corresponding Secretary |
-| Ryan O'Toole        | Trustee                          |
+| Name                  | Position                         |
+|-----------------------|----------------------------------|
+| Sarah MacDonald       | President                        |
+| Carol Burak           | Trustee                          |
+| Toby Cabot            | Trustee                          |
+| Bernadette Chirokas   | Trustee                          |
+| Mike Downey           | Trustee, Treasurer               |
+| Nancy English         | Trustee                          |
+| Megan Hempstead       | Trustee, Corresponding Secretary |
+| Father Stephen Josoma | Trustee                          |
+| Sunshine Millea       | Trustee                          |
+| Ryan O'Toole          | Trustee                          |
+| Ann Stanesa           | Trustee                          |
+
 
 Trustees meet monthly and as needed.
 At least one trustee is on duty when the pantry is open for shopping.
